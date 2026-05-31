@@ -1,0 +1,74 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Metrices
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `ElbowLeft              .txt` - File, 478 B.
+- `ElbowRight             .txt` - File, 478 B.
+- `HandLeft               .txt` - File, 478 B.
+- `HandRight              .txt` - File, 478 B.
+- `HandTipLeft            .txt` - File, 478 B.
+- `HandTipRight           .txt` - File, 478 B.
+- `Head                   .txt` - File, 478 B.
+- `HipRight               .txt` - File, 478 B.
+- `Left_Hand_D            .txt` - File, 478 B.
+- `Left_Hand_M            .txt` - File, 478 B.
+- `Left_Hand_N            .txt` - File, 478 B.
+- `Left_HandArm_D         .txt` - File, 478 B.
+- `Left_HandArm_M         .txt` - File, 478 B.
+- `Left_HandArm_N         .txt` - File, 478 B.
+- `Left_HandElbow_        .txt` - File, 478 B.
+- `Left_HandElbow_M       .txt` - File, 478 B.
+- `Left_HandElbow_N       .txt` - File, 478 B.
+- `Left_HandMatrixO       .txt` - File, 478 B.
+- `Left_HandMatrixXB      .txt` - File, 478 B.
+- `Left_HandMatrixYB      .txt` - File, 478 B.
+- `Left_HandMatrixZB      .txt` - File, 478 B.
+- `Left_HandPalm_M        .txt` - File, 478 B.
+- `Left_HandPalm_N        .txt` - File, 478 B.
+- `Left_HandPalm_P        .txt` - File, 478 B.
+- `Left_HandWrist_M       .txt` - File, 478 B.
+- `Left_HandWrist_N       .txt` - File, 479 B.
+- `Left_HandWrist_P       .txt` - File, 478 B.
+- `Neck                   .txt` - File, 478 B.
+- `Others_Arm_Features    .txt` - File, 478 B.
+- `Others_Elbow_Features  .txt` - File, 478 B.
+- `Others_Finger_Featuers .txt` - File, 2.3 KB.
+- `Others_Hand_Features   .txt` - File, 478 B.
+- `Others_Palm_Features   .txt` - File, 478 B.
+- `Others_Wrist_Features  .txt` - File, 478 B.
+- `ShoulderLeft           .txt` - File, 478 B.
+- `ShoulderRight          .txt` - File, 478 B.
+- `SpineMid               .txt` - File, 478 B.
+- `SpineShoulder          .txt` - File, 478 B.
+- `ThumbLeft              .txt` - File, 478 B.
+- `ThumbRight             .txt` - File, 478 B.
+- `TYPE_INDEX             .txt` - File, 478 B.
+- `TYPE_INDEXD_N          .txt` - File, 478 B.
+- `TYPE_INDEXTipP         .txt` - File, 478 B.
+- `TYPE_INDEXTipS         .txt` - File, 478 B.
+- `TYPE_INDEXTipV         .txt` - File, 478 B.
+- `TYPE_MIDDLE            .txt` - File, 478 B.
+- `TYPE_MIDDLED_N         .txt` - File, 478 B.
+- `TYPE_MIDDLETipP        .txt` - File, 478 B.
+- `TYPE_MIDDLETipS        .txt` - File, 478 B.
+- `TYPE_MIDDLETipV        .txt` - File, 478 B.
+- `TYPE_PINKY             .txt` - File, 478 B.
+- `TYPE_PINKYD_N          .txt` - File, 478 B.
+- `TYPE_PINKYTipP         .txt` - File, 478 B.
+- `TYPE_PINKYTipS         .txt` - File, 478 B.
+- `TYPE_PINKYTipV         .txt` - File, 478 B.
+- `TYPE_RING              .txt` - File, 478 B.
+- `TYPE_RINGD_N           .txt` - File, 478 B.
+- `TYPE_RINGTipP          .txt` - File, 478 B.
+- `TYPE_RINGTipS          .txt` - File, 478 B.
+- `TYPE_RINGTipV          .txt` - File, 478 B.
+- `TYPE_THUMB             .txt` - File, 478 B.
+- `TYPE_THUMBD_N          .txt` - File, 478 B.
+- `TYPE_THUMBTipP         .txt` - File, 478 B.
+- `TYPE_THUMBTipS         .txt` - File, 478 B.
+- `TYPE_THUMBTipV         .txt` - File, 478 B.
+- `WristLeft              .txt` - File, 478 B.
+- `WristRight             .txt` - File, 478 B.

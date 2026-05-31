@@ -1,0 +1,8 @@
+TYPE_MIDDLETipP        , -4.937497    ,     170.8589 ,    170.8589
+TYPE_MIDDLETipP        , -0.743163    ,     167.0828 ,    167.0828
+TYPE_MIDDLETipP        , 1.56766      ,     165.2898 ,    165.2898
+TYPE_MIDDLETipP        , 5.169549     ,     165.7572 ,    165.7572
+TYPE_MIDDLETipP        , 5.922604     ,     159.4122 ,    159.4122
+TYPE_MIDDLETipP        , 7.181783     ,     156.8412 ,    156.8412
+TYPE_MIDDLETipP        , 8.919976     ,     152.3309 ,    152.3309
+

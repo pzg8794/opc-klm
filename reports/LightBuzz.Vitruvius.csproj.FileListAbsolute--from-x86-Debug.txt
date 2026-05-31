@@ -1,0 +1,9 @@
+C:\Users\pzg8794\Downloads\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\bin\x86\Debug\LightBuzz.Vitruvius.dll
+C:\Users\pzg8794\Downloads\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\bin\x86\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\pzg8794\Downloads\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius.dll
+C:\Users\pzg8794\Downloads\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\LightBuzz.Vitruvius\bin\x86\Debug\LightBuzz.Vitruvius.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\LightBuzz.Vitruvius\bin\x86\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius.csprojResolveAssemblyReference.cache
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius.pdb

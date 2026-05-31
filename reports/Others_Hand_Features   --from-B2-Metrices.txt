@@ -1,0 +1,10 @@
+Others_Hand_Features   , -0.896115    ,   0.02650406 ,  0.03312976
+Others_Hand_Features   , -0.896115    ,   0.02650406 ,  0.03312976
+Others_Hand_Features   , -0.8956791   , -0.002141344 , -0.002674614
+Others_Hand_Features   , -0.7771523   ,   -0.1315694 ,  -0.1294415
+Others_Hand_Features   , -0.776721    ,   -0.1420411 ,  -0.1396292
+Others_Hand_Features   , -0.8146906   ,   -0.1815146 ,  -0.1922122
+Others_Hand_Features   , -0.8093114   ,   -0.1907365 ,  -0.1998427
+Others_Hand_Features   , -0.7996421   ,   -0.1855121 ,  -0.1907463
+Others_Hand_Features   , -0.7996421   ,   -0.1855121 ,  -0.1907463
+

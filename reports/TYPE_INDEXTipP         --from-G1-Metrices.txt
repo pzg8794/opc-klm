@@ -1,0 +1,11 @@
+TYPE_INDEXTipP         , 8.653729     ,     159.3257 ,    159.3257
+TYPE_INDEXTipP         , 10.06759     ,     157.5694 ,    157.5694
+TYPE_INDEXTipP         , 10.06759     ,     157.5694 ,    157.5694
+TYPE_INDEXTipP         , 11.45205     ,      157.458 ,     157.458
+TYPE_INDEXTipP         , 9.138904     ,     156.9923 ,    156.9923
+TYPE_INDEXTipP         , 9.138904     ,     156.9923 ,    156.9923
+TYPE_INDEXTipP         , 10.08078     ,     158.9058 ,    158.9058
+TYPE_INDEXTipP         , 9.535159     ,     159.9936 ,    159.9936
+TYPE_INDEXTipP         , 8.334781     ,     157.0586 ,    157.0586
+TYPE_INDEXTipP         , 8.334781     ,     157.0586 ,    157.0586
+

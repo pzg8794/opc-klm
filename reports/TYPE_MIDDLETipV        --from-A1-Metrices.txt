@@ -1,0 +1,8 @@
+TYPE_MIDDLETipV        , 2.629604     ,    -23.27762 ,   -21.07573
+TYPE_MIDDLETipV        , -2.7714      ,     9.222594 ,    22.16957
+TYPE_MIDDLETipV        , -5.88852     ,    -14.38453 ,   -24.27057
+TYPE_MIDDLETipV        , -3.15522     ,     16.87119 ,   -7.246334
+TYPE_MIDDLETipV        , -10.52366    ,    -24.79832 ,    2.465997
+TYPE_MIDDLETipV        , 22.29343     ,    -17.01016 ,    11.74631
+TYPE_MIDDLETipV        , 8.169113     ,    -15.69762 ,    1.934747
+

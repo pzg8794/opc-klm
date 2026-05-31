@@ -1,0 +1,19 @@
+C:\Users\pzg8794\Downloads\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\pzg8794\Downloads\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\bin\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\pzg8794\Downloads\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\bin\Debug\Microsoft.Kinect.dll
+C:\Users\pzg8794\Downloads\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\bin\Debug\Microsoft.Kinect.xml
+C:\Users\pzg8794\Downloads\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.dll
+C:\Users\pzg8794\Downloads\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\LightBuzz.Vitruvius\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\LightBuzz.Vitruvius\bin\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\LightBuzz.Vitruvius\bin\Debug\Microsoft.Kinect.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\LightBuzz.Vitruvius\bin\Debug\Microsoft.Kinect.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.csprojResolveAssemblyReference.cache
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\LightBuzz.Vitruvius\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\LightBuzz.Vitruvius\bin\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\LightBuzz.Vitruvius\bin\Debug\Microsoft.Kinect.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\LightBuzz.Vitruvius\bin\Debug\Microsoft.Kinect.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.pdb

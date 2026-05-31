@@ -1,0 +1,1148 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# reports
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `src/` - Directory containing related files for this portfolio item.
+- `29 Viola et al SP3.pdf` - File, 1.8 MB.
+- `A0K--from-A-A1.txt` - File, 1.1 KB.
+- `A0K.txt` - File, 1.1 KB.
+- `A0LM--from-A-A1.txt` - File, 3.6 KB.
+- `A0LM.txt` - File, 3.6 KB.
+- `A1K--from-A-A1.txt` - File, 1.1 KB.
+- `A1K.txt` - File, 1.1 KB.
+- `A1LM--from-A-A1.txt` - File, 5.3 KB.
+- `A1LM.txt` - File, 3.6 KB.
+- `A2K--from-A-A1.txt` - File, 1.1 KB.
+- `A2K.txt` - File, 1.1 KB.
+- `A2LM--from-A-A1.txt` - File, 3.6 KB.
+- `A2LM.txt` - File, 3.6 KB.
+- `A3K--from-A-A1.txt` - File, 1.1 KB.
+- `A3K.txt` - File, 1.1 KB.
+- `A3LM--from-A-A1.txt` - File, 3.6 KB.
+- `A3LM.txt` - File, 3.6 KB.
+- `A4K--from-A-A1.txt` - File, 1.1 KB.
+- `A4K.txt` - File, 1.1 KB.
+- `A4LM--from-A-A1.txt` - File, 4.5 KB.
+- `A4LM.txt` - File, 3.6 KB.
+- `A5K--from-A-A1.txt` - File, 1.1 KB.
+- `A5K.txt` - File, 1.1 KB.
+- `A5LM--from-A-A1.txt` - File, 3.6 KB.
+- `A5LM.txt` - File, 3.6 KB.
+- `A6K--from-A-A1.txt` - File, 1.1 KB.
+- `A6K.txt` - File, 1.1 KB.
+- `A6LM--from-A-A1.txt` - File, 3.6 KB.
+- `A6LM.txt` - File, 3.6 KB.
+- `B0K--from-B-B1.txt` - File, 1.1 KB.
+- `B0K.txt` - File, 1.1 KB.
+- `B0LM--from-B-B1.txt` - File, 3.6 KB.
+- `B0LM.txt` - File, 4.5 KB.
+- `B1K--from-B-B1.txt` - File, 1.1 KB.
+- `B1K.txt` - File, 1.1 KB.
+- `B1LM--from-B-B1.txt` - File, 3.6 KB.
+- `B1LM.txt` - File, 3.6 KB.
+- `B2K--from-B-B1.txt` - File, 1.1 KB.
+- `B2K.txt` - File, 1.1 KB.
+- `B2LM--from-B-B1.txt` - File, 6.4 KB.
+- `B2LM.txt` - File, 3.7 KB.
+- `B3K--from-B-B1.txt` - File, 1.1 KB.
+- `B3K.txt` - File, 1.1 KB.
+- `B3LM--from-B-B1.txt` - File, 3.6 KB.
+- `B3LM.txt` - File, 3.6 KB.
+- `B4K--from-B-B1.txt` - File, 1.1 KB.
+- `B4K.txt` - File, 1.1 KB.
+- `B4LM--from-B-B1.txt` - File, 3.6 KB.
+- `B4LM.txt` - File, 3.6 KB.
+- `B5K--from-B-B1.txt` - File, 1.1 KB.
+- `B5K.txt` - File, 1.1 KB.
+- `B5LM--from-B-B1.txt` - File, 3.6 KB.
+- `B5LM.txt` - File, 3.6 KB.
+- `B6K--from-B-B1.txt` - File, 1.1 KB.
+- `B6K.txt` - File, 1.1 KB.
+- `B6LM--from-B-B1.txt` - File, 3.6 KB.
+- `B6LM.txt` - File, 4.3 KB.
+- `C0K--from-C-C2.txt` - File, 1.1 KB.
+- `C0K.txt` - File, 1.1 KB.
+- `C0LM--from-C-C2.txt` - File, 3.6 KB.
+- `C0LM.txt` - File, 3.6 KB.
+- `C1K--from-C-C2.txt` - File, 1.1 KB.
+- `C1K.txt` - File, 1.1 KB.
+- `C1LM--from-C-C2.txt` - File, 3.6 KB.
+- `C1LM.txt` - File, 3.6 KB.
+- `C2K--from-C-C2.txt` - File, 1.1 KB.
+- `C2K.txt` - File, 1.1 KB.
+- `C2LM--from-C-C2.txt` - File, 3.6 KB.
+- `C2LM.txt` - File, 4.3 KB.
+- `C3K--from-C-C2.txt` - File, 1.1 KB.
+- `C3K.txt` - File, 1.1 KB.
+- `C3LM--from-C-C2.txt` - File, 3.6 KB.
+- `C3LM.txt` - File, 3.6 KB.
+- `C4K--from-C-C2.txt` - File, 1.1 KB.
+- `C4K.txt` - File, 1.1 KB.
+- `C4LM--from-C-C2.txt` - File, 3.6 KB.
+- `C4LM.txt` - File, 3.6 KB.
+- `C5K--from-C-C2.txt` - File, 1.1 KB.
+- `C5K.txt` - File, 1.1 KB.
+- `C5LM--from-C-C2.txt` - File, 5.6 KB.
+- `C5LM.txt` - File, 3.5 KB.
+- `C6K--from-C-C2.txt` - File, 1.1 KB.
+- `C6K.txt` - File, 1.1 KB.
+- `C6LM--from-C-C2.txt` - File, 4.8 KB.
+- `C6LM.txt` - File, 4.8 KB.
+- `D0K--from-D-D2.txt` - File, 1.1 KB.
+- `D0K.txt` - File, 1.1 KB.
+- `D0LM--from-D-D2.txt` - File, 3.6 KB.
+- `D0LM.txt` - File, 5.3 KB.
+- `D1K--from-D-D2.txt` - File, 1.1 KB.
+- `D1K.txt` - File, 1.1 KB.
+- `D1LM--from-D-D2.txt` - File, 3.6 KB.
+- `D1LM.txt` - File, 3.6 KB.
+- `D2K--from-D-D2.txt` - File, 1.1 KB.
+- `D2K.txt` - File, 1.1 KB.
+- `D2LM--from-D-D2.txt` - File, 3.6 KB.
+- `D2LM.txt` - File, 3.6 KB.
+- `D3K--from-D-D2.txt` - File, 1.1 KB.
+- `D3K.txt` - File, 1.1 KB.
+- `D3LM--from-D-D2.txt` - File, 5.4 KB.
+- `D3LM.txt` - File, 3.6 KB.
+- `D4K--from-D-D2.txt` - File, 1.1 KB.
+- `D4K.txt` - File, 1.1 KB.
+- `D4LM--from-D-D2.txt` - File, 3.6 KB.
+- `D4LM.txt` - File, 3.6 KB.
+- `D5K--from-D-D2.txt` - File, 1.1 KB.
+- `D5K.txt` - File, 1.1 KB.
+- `D5LM--from-D-D2.txt` - File, 5.3 KB.
+- `D5LM.txt` - File, 3.6 KB.
+- `D6K--from-D-D2.txt` - File, 1.1 KB.
+- `D6K.txt` - File, 1.1 KB.
+- `D6LM--from-D-D2.txt` - File, 3.6 KB.
+- `D6LM.txt` - File, 3.6 KB.
+- `E0K--from-E-E1.txt` - File, 1.1 KB.
+- `E0K.txt` - File, 1.1 KB.
+- `E0LM--from-E-E1.txt` - File, 3.7 KB.
+- `E0LM.txt` - File, 4.8 KB.
+- `E1K--from-E-E1.txt` - File, 1.1 KB.
+- `E1K.txt` - File, 1.1 KB.
+- `E1LM--from-E-E1.txt` - File, 5.4 KB.
+- `E1LM.txt` - File, 3.6 KB.
+- `E2K--from-E-E1.txt` - File, 1.1 KB.
+- `E2K.txt` - File, 1.1 KB.
+- `E2LM--from-E-E1.txt` - File, 4.5 KB.
+- `E2LM.txt` - File, 6.4 KB.
+- `E3K--from-E-E1.txt` - File, 1.1 KB.
+- `E3K.txt` - File, 1.1 KB.
+- `E3LM--from-E-E1.txt` - File, 3.6 KB.
+- `E3LM.txt` - File, 3.6 KB.
+- `E4K--from-E-E1.txt` - File, 1.1 KB.
+- `E4K.txt` - File, 1.1 KB.
+- `E4LM--from-E-E1.txt` - File, 3.6 KB.
+- `E4LM.txt` - File, 3.6 KB.
+- `E5K--from-E-E1.txt` - File, 1.1 KB.
+- `E5K.txt` - File, 1.1 KB.
+- `E5LM--from-E-E1.txt` - File, 3.6 KB.
+- `E5LM.txt` - File, 3.6 KB.
+- `E6K--from-E-E1.txt` - File, 1.1 KB.
+- `E6K.txt` - File, 1.1 KB.
+- `E6LM--from-E-E1.txt` - File, 3.6 KB.
+- `E6LM.txt` - File, 3.6 KB.
+- `ElbowLeft              --from-A1-Metrices.txt` - File, 478 B.
+- `ElbowLeft              --from-A2-Metrices.txt` - File, 478 B.
+- `ElbowLeft              --from-B2-Metrices.txt` - File, 478 B.
+- `ElbowLeft              --from-C1-Metrices.txt` - File, 478 B.
+- `ElbowLeft              --from-C2-Metrices.txt` - File, 478 B.
+- `ElbowLeft              --from-D1-Metrices.txt` - File, 478 B.
+- `ElbowLeft              --from-D2-Metrices.txt` - File, 478 B.
+- `ElbowLeft              --from-E1-Metrices.txt` - File, 478 B.
+- `ElbowLeft              --from-E2-Metrices.txt` - File, 478 B.
+- `ElbowLeft              --from-F1-Metrices.txt` - File, 478 B.
+- `ElbowLeft              --from-F2-Metrices.txt` - File, 478 B.
+- `ElbowLeft              --from-G1-Metrices.txt` - File, 478 B.
+- `ElbowLeft              --from-G2-Metrices.txt` - File, 478 B.
+- `ElbowLeft              .txt` - File, 478 B.
+- `ElbowRight             --from-A1-Metrices.txt` - File, 478 B.
+- `ElbowRight             --from-A2-Metrices.txt` - File, 478 B.
+- `ElbowRight             --from-B2-Metrices.txt` - File, 478 B.
+- `ElbowRight             --from-C1-Metrices.txt` - File, 478 B.
+- `ElbowRight             --from-C2-Metrices.txt` - File, 478 B.
+- `ElbowRight             --from-D1-Metrices.txt` - File, 478 B.
+- `ElbowRight             --from-D2-Metrices.txt` - File, 478 B.
+- `ElbowRight             --from-E1-Metrices.txt` - File, 478 B.
+- `ElbowRight             --from-E2-Metrices.txt` - File, 478 B.
+- `ElbowRight             --from-F1-Metrices.txt` - File, 478 B.
+- `ElbowRight             --from-F2-Metrices.txt` - File, 478 B.
+- `ElbowRight             --from-G1-Metrices.txt` - File, 478 B.
+- `ElbowRight             --from-G2-Metrices.txt` - File, 478 B.
+- `ElbowRight             .txt` - File, 478 B.
+- `F0K--from-F-F1.txt` - File, 1.1 KB.
+- `F0K.txt` - File, 1.1 KB.
+- `F0LM--from-F-F1.txt` - File, 3.6 KB.
+- `F0LM.txt` - File, 5.0 KB.
+- `F1K--from-F-F1.txt` - File, 1.1 KB.
+- `F1K.txt` - File, 1.1 KB.
+- `F1LM--from-F-F1.txt` - File, 3.6 KB.
+- `F1LM.txt` - File, 3.6 KB.
+- `F2K--from-F-F1.txt` - File, 1.1 KB.
+- `F2K.txt` - File, 1.1 KB.
+- `F2LM--from-F-F1.txt` - File, 3.6 KB.
+- `F2LM.txt` - File, 3.6 KB.
+- `F3K--from-F-F1.txt` - File, 1.1 KB.
+- `F3K.txt` - File, 1.1 KB.
+- `F3LM--from-F-F1.txt` - File, 3.6 KB.
+- `F3LM.txt` - File, 4.5 KB.
+- `F4K--from-F-F1.txt` - File, 1.1 KB.
+- `F4K.txt` - File, 1.1 KB.
+- `F4LM--from-F-F1.txt` - File, 3.6 KB.
+- `F4LM.txt` - File, 3.6 KB.
+- `F5K--from-F-F1.txt` - File, 1.1 KB.
+- `F5K.txt` - File, 1.1 KB.
+- `F5LM--from-F-F1.txt` - File, 3.6 KB.
+- `F5LM.txt` - File, 6.5 KB.
+- `F6K--from-F-F1.txt` - File, 1.1 KB.
+- `F6K.txt` - File, 1.1 KB.
+- `F6LM--from-F-F1.txt` - File, 4.3 KB.
+- `F6LM.txt` - File, 3.6 KB.
+- `G0K--from-G-G2.txt` - File, 1.1 KB.
+- `G0K.txt` - File, 1.1 KB.
+- `G0LM--from-G-G2.txt` - File, 3.6 KB.
+- `G0LM.txt` - File, 3.6 KB.
+- `G1K--from-G-G2.txt` - File, 1.1 KB.
+- `G1K.txt` - File, 1.1 KB.
+- `G1LM--from-G-G2.txt` - File, 4.7 KB.
+- `G1LM.txt` - File, 6.6 KB.
+- `G2K--from-G-G2.txt` - File, 1.1 KB.
+- `G2K.txt` - File, 1.1 KB.
+- `G2LM--from-G-G2.txt` - File, 5.8 KB.
+- `G2LM.txt` - File, 3.6 KB.
+- `G3K--from-G-G2.txt` - File, 1.1 KB.
+- `G3K.txt` - File, 1.1 KB.
+- `G3LM--from-G-G2.txt` - File, 5.4 KB.
+- `G3LM.txt` - File, 5.0 KB.
+- `G4K--from-G-G2.txt` - File, 1.1 KB.
+- `G4K.txt` - File, 1.1 KB.
+- `G4LM--from-G-G2.txt` - File, 3.6 KB.
+- `G4LM.txt` - File, 3.6 KB.
+- `G5K--from-G-G2.txt` - File, 1.1 KB.
+- `G5K.txt` - File, 1.1 KB.
+- `G5LM--from-G-G2.txt` - File, 4.8 KB.
+- `G5LM.txt` - File, 3.6 KB.
+- `G6K--from-G-G2.txt` - File, 1.1 KB.
+- `G6K.txt` - File, 1.1 KB.
+- `G6LM--from-G-G2.txt` - File, 4.8 KB.
+- `G6LM.txt` - File, 6.1 KB.
+- `H0K--from-H-H1.txt` - File, 1.1 KB.
+- `H0K.txt` - File, 1.1 KB.
+- `H0LM--from-H-H1.txt` - File, 3.9 KB.
+- `H0LM.txt` - File, 3.6 KB.
+- `H1K--from-H-H1.txt` - File, 1.1 KB.
+- `H1K.txt` - File, 1.1 KB.
+- `H1LM--from-H-H1.txt` - File, 5.8 KB.
+- `H1LM.txt` - File, 3.6 KB.
+- `H2K--from-H-H1.txt` - File, 1.1 KB.
+- `H2K.txt` - File, 1.1 KB.
+- `H2LM--from-H-H1.txt` - File, 3.1 KB.
+- `H2LM.txt` - File, 4.9 KB.
+- `H3K--from-H-H1.txt` - File, 1.1 KB.
+- `H3K.txt` - File, 1.1 KB.
+- `H3LM--from-H-H1.txt` - File, 3.6 KB.
+- `H3LM.txt` - File, 4.3 KB.
+- `H4K--from-H-H1.txt` - File, 1.1 KB.
+- `H4K.txt` - File, 1.1 KB.
+- `H4LM--from-H-H1.txt` - File, 3.5 KB.
+- `H4LM.txt` - File, 3.6 KB.
+- `H5K--from-H-H1.txt` - File, 1.1 KB.
+- `H5K.txt` - File, 1.1 KB.
+- `H5LM--from-H-H1.txt` - File, 3.6 KB.
+- `H5LM.txt` - File, 4.0 KB.
+- `H6K--from-H-H1.txt` - File, 1.1 KB.
+- `H6K.txt` - File, 1.1 KB.
+- `H6LM--from-H-H1.txt` - File, 5.0 KB.
+- `H6LM.txt` - File, 3.7 KB.
+- `HandLeft               --from-A1-Metrices.txt` - File, 478 B.
+- `HandLeft               --from-A2-Metrices.txt` - File, 478 B.
+- `HandLeft               --from-B2-Metrices.txt` - File, 478 B.
+- `HandLeft               --from-C1-Metrices.txt` - File, 478 B.
+- `HandLeft               --from-C2-Metrices.txt` - File, 478 B.
+- `HandLeft               --from-D1-Metrices.txt` - File, 478 B.
+- `HandLeft               --from-D2-Metrices.txt` - File, 478 B.
+- `HandLeft               --from-E1-Metrices.txt` - File, 478 B.
+- `HandLeft               --from-E2-Metrices.txt` - File, 478 B.
+- `HandLeft               --from-F1-Metrices.txt` - File, 478 B.
+- `HandLeft               --from-F2-Metrices.txt` - File, 478 B.
+- `HandLeft               --from-G1-Metrices.txt` - File, 478 B.
+- `HandLeft               --from-G2-Metrices.txt` - File, 478 B.
+- `HandLeft               .txt` - File, 478 B.
+- `HandRight              --from-A1-Metrices.txt` - File, 478 B.
+- `HandRight              --from-A2-Metrices.txt` - File, 478 B.
+- `HandRight              --from-B2-Metrices.txt` - File, 478 B.
+- `HandRight              --from-C1-Metrices.txt` - File, 478 B.
+- `HandRight              --from-C2-Metrices.txt` - File, 478 B.
+- `HandRight              --from-D1-Metrices.txt` - File, 478 B.
+- `HandRight              --from-D2-Metrices.txt` - File, 478 B.
+- `HandRight              --from-E1-Metrices.txt` - File, 478 B.
+- `HandRight              --from-E2-Metrices.txt` - File, 478 B.
+- `HandRight              --from-F1-Metrices.txt` - File, 478 B.
+- `HandRight              --from-F2-Metrices.txt` - File, 478 B.
+- `HandRight              --from-G1-Metrices.txt` - File, 478 B.
+- `HandRight              --from-G2-Metrices.txt` - File, 478 B.
+- `HandRight              .txt` - File, 478 B.
+- `HandTipLeft            --from-A1-Metrices.txt` - File, 478 B.
+- `HandTipLeft            --from-A2-Metrices.txt` - File, 478 B.
+- `HandTipLeft            --from-B2-Metrices.txt` - File, 478 B.
+- `HandTipLeft            --from-C1-Metrices.txt` - File, 478 B.
+- `HandTipLeft            --from-C2-Metrices.txt` - File, 478 B.
+- `HandTipLeft            --from-D1-Metrices.txt` - File, 478 B.
+- `HandTipLeft            --from-D2-Metrices.txt` - File, 478 B.
+- `HandTipLeft            --from-E1-Metrices.txt` - File, 478 B.
+- `HandTipLeft            --from-E2-Metrices.txt` - File, 478 B.
+- `HandTipLeft            --from-F1-Metrices.txt` - File, 478 B.
+- `HandTipLeft            --from-F2-Metrices.txt` - File, 478 B.
+- `HandTipLeft            --from-G1-Metrices.txt` - File, 478 B.
+- `HandTipLeft            --from-G2-Metrices.txt` - File, 478 B.
+- `HandTipLeft            .txt` - File, 478 B.
+- `HandTipRight           --from-A1-Metrices.txt` - File, 478 B.
+- `HandTipRight           --from-A2-Metrices.txt` - File, 478 B.
+- `HandTipRight           --from-B2-Metrices.txt` - File, 478 B.
+- `HandTipRight           --from-C1-Metrices.txt` - File, 478 B.
+- `HandTipRight           --from-C2-Metrices.txt` - File, 478 B.
+- `HandTipRight           --from-D1-Metrices.txt` - File, 478 B.
+- `HandTipRight           --from-D2-Metrices.txt` - File, 478 B.
+- `HandTipRight           --from-E1-Metrices.txt` - File, 478 B.
+- `HandTipRight           --from-E2-Metrices.txt` - File, 478 B.
+- `HandTipRight           --from-F1-Metrices.txt` - File, 478 B.
+- `HandTipRight           --from-F2-Metrices.txt` - File, 478 B.
+- `HandTipRight           --from-G1-Metrices.txt` - File, 478 B.
+- `HandTipRight           --from-G2-Metrices.txt` - File, 478 B.
+- `HandTipRight           .txt` - File, 478 B.
+- `Head                   --from-A1-Metrices.txt` - File, 478 B.
+- `Head                   --from-A2-Metrices.txt` - File, 478 B.
+- `Head                   --from-B2-Metrices.txt` - File, 478 B.
+- `Head                   --from-C1-Metrices.txt` - File, 478 B.
+- `Head                   --from-C2-Metrices.txt` - File, 478 B.
+- `Head                   --from-D1-Metrices.txt` - File, 478 B.
+- `Head                   --from-D2-Metrices.txt` - File, 478 B.
+- `Head                   --from-E1-Metrices.txt` - File, 478 B.
+- `Head                   --from-E2-Metrices.txt` - File, 478 B.
+- `Head                   --from-F1-Metrices.txt` - File, 478 B.
+- `Head                   --from-F2-Metrices.txt` - File, 478 B.
+- `Head                   --from-G1-Metrices.txt` - File, 478 B.
+- `Head                   --from-G2-Metrices.txt` - File, 478 B.
+- `Head                   .txt` - File, 478 B.
+- `HipRight               --from-A1-Metrices.txt` - File, 478 B.
+- `HipRight               --from-A2-Metrices.txt` - File, 478 B.
+- `HipRight               --from-B2-Metrices.txt` - File, 478 B.
+- `HipRight               --from-C1-Metrices.txt` - File, 478 B.
+- `HipRight               --from-C2-Metrices.txt` - File, 478 B.
+- `HipRight               --from-D1-Metrices.txt` - File, 478 B.
+- `HipRight               --from-D2-Metrices.txt` - File, 478 B.
+- `HipRight               --from-E1-Metrices.txt` - File, 478 B.
+- `HipRight               --from-E2-Metrices.txt` - File, 478 B.
+- `HipRight               --from-F1-Metrices.txt` - File, 478 B.
+- `HipRight               --from-F2-Metrices.txt` - File, 478 B.
+- `HipRight               --from-G1-Metrices.txt` - File, 478 B.
+- `HipRight               --from-G2-Metrices.txt` - File, 478 B.
+- `HipRight               .txt` - File, 478 B.
+- `I0K.txt` - File, 1.1 KB.
+- `I0LM.txt` - File, 3.6 KB.
+- `I1K.txt` - File, 1.1 KB.
+- `I1LM.txt` - File, 3.6 KB.
+- `I2K.txt` - File, 1.1 KB.
+- `I2LM.txt` - File, 6.0 KB.
+- `I3K.txt` - File, 1.1 KB.
+- `I3LM.txt` - File, 5.2 KB.
+- `I4K.txt` - File, 1.1 KB.
+- `I4LM.txt` - File, 3.6 KB.
+- `I5K.txt` - File, 1.1 KB.
+- `I5LM.txt` - File, 3.6 KB.
+- `I6K.txt` - File, 1.1 KB.
+- `I6LM.txt` - File, 3.6 KB.
+- `KLM.csproj.FileListAbsolute--from-x64-Debug.txt` - File, 4.1 KB.
+- `KLM.csproj.FileListAbsolute--from-x86-Debug.txt` - File, 8.9 KB.
+- `KLM.csproj.FileListAbsolute.txt` - File, 7.6 KB.
+- `KLM.FileListAbsolute.txt` - File, 65.6 KB.
+- `Left_Hand_D            --from-A1-Metrices.txt` - File, 614 B.
+- `Left_Hand_D            --from-A2-Metrices.txt` - File, 478 B.
+- `Left_Hand_D            --from-B2-Metrices.txt` - File, 614 B.
+- `Left_Hand_D            --from-C1-Metrices.txt` - File, 614 B.
+- `Left_Hand_D            --from-C2-Metrices.txt` - File, 614 B.
+- `Left_Hand_D            --from-D1-Metrices.txt` - File, 547 B.
+- `Left_Hand_D            --from-D2-Metrices.txt` - File, 614 B.
+- `Left_Hand_D            --from-E1-Metrices.txt` - File, 614 B.
+- `Left_Hand_D            --from-E2-Metrices.txt` - File, 614 B.
+- `Left_Hand_D            --from-F1-Metrices.txt` - File, 546 B.
+- `Left_Hand_D            --from-F2-Metrices.txt` - File, 682 B.
+- `Left_Hand_D            --from-G1-Metrices.txt` - File, 682 B.
+- `Left_Hand_D            --from-G2-Metrices.txt` - File, 818 B.
+- `Left_Hand_D            .txt` - File, 546 B.
+- `Left_Hand_M            --from-A1-Metrices.txt` - File, 614 B.
+- `Left_Hand_M            --from-A2-Metrices.txt` - File, 478 B.
+- `Left_Hand_M            --from-B2-Metrices.txt` - File, 614 B.
+- `Left_Hand_M            --from-C1-Metrices.txt` - File, 614 B.
+- `Left_Hand_M            --from-C2-Metrices.txt` - File, 614 B.
+- `Left_Hand_M            --from-D1-Metrices.txt` - File, 546 B.
+- `Left_Hand_M            --from-D2-Metrices.txt` - File, 614 B.
+- `Left_Hand_M            --from-E1-Metrices.txt` - File, 614 B.
+- `Left_Hand_M            --from-E2-Metrices.txt` - File, 614 B.
+- `Left_Hand_M            --from-F1-Metrices.txt` - File, 546 B.
+- `Left_Hand_M            --from-F2-Metrices.txt` - File, 682 B.
+- `Left_Hand_M            --from-G1-Metrices.txt` - File, 682 B.
+- `Left_Hand_M            --from-G2-Metrices.txt` - File, 818 B.
+- `Left_Hand_M            .txt` - File, 546 B.
+- `Left_Hand_N            --from-A1-Metrices.txt` - File, 614 B.
+- `Left_Hand_N            --from-A2-Metrices.txt` - File, 478 B.
+- `Left_Hand_N            --from-B2-Metrices.txt` - File, 614 B.
+- `Left_Hand_N            --from-C1-Metrices.txt` - File, 614 B.
+- `Left_Hand_N            --from-C2-Metrices.txt` - File, 614 B.
+- `Left_Hand_N            --from-D1-Metrices.txt` - File, 547 B.
+- `Left_Hand_N            --from-D2-Metrices.txt` - File, 614 B.
+- `Left_Hand_N            --from-E1-Metrices.txt` - File, 614 B.
+- `Left_Hand_N            --from-E2-Metrices.txt` - File, 614 B.
+- `Left_Hand_N            --from-F1-Metrices.txt` - File, 546 B.
+- `Left_Hand_N            --from-F2-Metrices.txt` - File, 682 B.
+- `Left_Hand_N            --from-G1-Metrices.txt` - File, 682 B.
+- `Left_Hand_N            --from-G2-Metrices.txt` - File, 818 B.
+- `Left_Hand_N            .txt` - File, 546 B.
+- `Left_HandArm_D         --from-A1-Metrices.txt` - File, 546 B.
+- `Left_HandArm_D         --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandArm_D         --from-B2-Metrices.txt` - File, 478 B.
+- `Left_HandArm_D         --from-C1-Metrices.txt` - File, 478 B.
+- `Left_HandArm_D         --from-C2-Metrices.txt` - File, 616 B.
+- `Left_HandArm_D         --from-D1-Metrices.txt` - File, 546 B.
+- `Left_HandArm_D         --from-D2-Metrices.txt` - File, 614 B.
+- `Left_HandArm_D         --from-E1-Metrices.txt` - File, 614 B.
+- `Left_HandArm_D         --from-E2-Metrices.txt` - File, 614 B.
+- `Left_HandArm_D         --from-F1-Metrices.txt` - File, 546 B.
+- `Left_HandArm_D         --from-F2-Metrices.txt` - File, 614 B.
+- `Left_HandArm_D         --from-G1-Metrices.txt` - File, 682 B.
+- `Left_HandArm_D         .txt` - File, 546 B.
+- `Left_HandArm_M         --from-A1-Metrices.txt` - File, 478 B.
+- `Left_HandArm_M         --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandArm_M         --from-B2-Metrices.txt` - File, 410 B.
+- `Left_HandArm_M         --from-C1-Metrices.txt` - File, 410 B.
+- `Left_HandArm_M         --from-C2-Metrices.txt` - File, 478 B.
+- `Left_HandArm_M         --from-D1-Metrices.txt` - File, 478 B.
+- `Left_HandArm_M         --from-D2-Metrices.txt` - File, 614 B.
+- `Left_HandArm_M         --from-E1-Metrices.txt` - File, 478 B.
+- `Left_HandArm_M         --from-E2-Metrices.txt` - File, 546 B.
+- `Left_HandArm_M         --from-F1-Metrices.txt` - File, 478 B.
+- `Left_HandArm_M         --from-F2-Metrices.txt` - File, 614 B.
+- `Left_HandArm_M         --from-G1-Metrices.txt` - File, 614 B.
+- `Left_HandArm_M         --from-G2-Metrices.txt` - File, 614 B.
+- `Left_HandArm_M         .txt` - File, 478 B.
+- `Left_HandArm_N         --from-A1-Metrices.txt` - File, 478 B.
+- `Left_HandArm_N         --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandArm_N         --from-B2-Metrices.txt` - File, 410 B.
+- `Left_HandArm_N         --from-C1-Metrices.txt` - File, 478 B.
+- `Left_HandArm_N         --from-C2-Metrices.txt` - File, 548 B.
+- `Left_HandArm_N         --from-D1-Metrices.txt` - File, 546 B.
+- `Left_HandArm_N         --from-D2-Metrices.txt` - File, 614 B.
+- `Left_HandArm_N         --from-E1-Metrices.txt` - File, 546 B.
+- `Left_HandArm_N         --from-E2-Metrices.txt` - File, 614 B.
+- `Left_HandArm_N         --from-F1-Metrices.txt` - File, 478 B.
+- `Left_HandArm_N         --from-F2-Metrices.txt` - File, 614 B.
+- `Left_HandArm_N         --from-G1-Metrices.txt` - File, 682 B.
+- `Left_HandArm_N         --from-G2-Metrices.txt` - File, 682 B.
+- `Left_HandArm_N         .txt` - File, 546 B.
+- `Left_HandElbow_        --from-A1-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_        --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_        --from-B2-Metrices.txt` - File, 410 B.
+- `Left_HandElbow_        --from-C1-Metrices.txt` - File, 410 B.
+- `Left_HandElbow_        --from-C2-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_        --from-D1-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_        --from-D2-Metrices.txt` - File, 614 B.
+- `Left_HandElbow_        --from-E1-Metrices.txt` - File, 410 B.
+- `Left_HandElbow_        --from-E2-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_        --from-F1-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_        --from-F2-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_        --from-G1-Metrices.txt` - File, 546 B.
+- `Left_HandElbow_        --from-G2-Metrices.txt` - File, 546 B.
+- `Left_HandElbow_        .txt` - File, 478 B.
+- `Left_HandElbow_M       --from-A1-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_M       --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_M       --from-B2-Metrices.txt` - File, 342 B.
+- `Left_HandElbow_M       --from-C1-Metrices.txt` - File, 342 B.
+- `Left_HandElbow_M       --from-C2-Metrices.txt` - File, 410 B.
+- `Left_HandElbow_M       --from-D1-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_M       --from-D2-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_M       --from-E1-Metrices.txt` - File, 342 B.
+- `Left_HandElbow_M       --from-E2-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_M       --from-F1-Metrices.txt` - File, 410 B.
+- `Left_HandElbow_M       --from-F2-Metrices.txt` - File, 410 B.
+- `Left_HandElbow_M       --from-G1-Metrices.txt` - File, 546 B.
+- `Left_HandElbow_M       .txt` - File, 478 B.
+- `Left_HandElbow_N       --from-A1-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_N       --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_N       --from-B2-Metrices.txt` - File, 410 B.
+- `Left_HandElbow_N       --from-C1-Metrices.txt` - File, 342 B.
+- `Left_HandElbow_N       --from-C2-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_N       --from-D1-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_N       --from-D2-Metrices.txt` - File, 546 B.
+- `Left_HandElbow_N       --from-E1-Metrices.txt` - File, 410 B.
+- `Left_HandElbow_N       --from-E2-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_N       --from-F1-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_N       --from-F2-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_N       --from-G1-Metrices.txt` - File, 546 B.
+- `Left_HandElbow_N       --from-G2-Metrices.txt` - File, 478 B.
+- `Left_HandElbow_N       .txt` - File, 478 B.
+- `Left_HandMatrixO       --from-A1-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixO       --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandMatrixO       --from-B2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixO       --from-C1-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixO       --from-C2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixO       --from-D1-Metrices.txt` - File, 546 B.
+- `Left_HandMatrixO       --from-D2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixO       --from-E1-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixO       --from-E2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixO       --from-F1-Metrices.txt` - File, 546 B.
+- `Left_HandMatrixO       --from-F2-Metrices.txt` - File, 682 B.
+- `Left_HandMatrixO       --from-G1-Metrices.txt` - File, 682 B.
+- `Left_HandMatrixO       --from-G2-Metrices.txt` - File, 818 B.
+- `Left_HandMatrixO       .txt` - File, 546 B.
+- `Left_HandMatrixXB      --from-A1-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixXB      --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandMatrixXB      --from-B2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixXB      --from-C1-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixXB      --from-C2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixXB      --from-D1-Metrices.txt` - File, 546 B.
+- `Left_HandMatrixXB      --from-D2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixXB      --from-E1-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixXB      --from-E2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixXB      --from-F1-Metrices.txt` - File, 546 B.
+- `Left_HandMatrixXB      --from-F2-Metrices.txt` - File, 682 B.
+- `Left_HandMatrixXB      --from-G1-Metrices.txt` - File, 682 B.
+- `Left_HandMatrixXB      --from-G2-Metrices.txt` - File, 818 B.
+- `Left_HandMatrixXB      .txt` - File, 546 B.
+- `Left_HandMatrixYB      --from-A1-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixYB      --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandMatrixYB      --from-B2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixYB      --from-C1-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixYB      --from-C2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixYB      --from-D1-Metrices.txt` - File, 546 B.
+- `Left_HandMatrixYB      --from-D2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixYB      --from-E1-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixYB      --from-E2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixYB      --from-F1-Metrices.txt` - File, 546 B.
+- `Left_HandMatrixYB      --from-F2-Metrices.txt` - File, 682 B.
+- `Left_HandMatrixYB      --from-G1-Metrices.txt` - File, 682 B.
+- `Left_HandMatrixYB      --from-G2-Metrices.txt` - File, 818 B.
+- `Left_HandMatrixYB      .txt` - File, 546 B.
+- `Left_HandMatrixZB      --from-A1-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixZB      --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandMatrixZB      --from-B2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixZB      --from-C1-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixZB      --from-C2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixZB      --from-D1-Metrices.txt` - File, 546 B.
+- `Left_HandMatrixZB      --from-D2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixZB      --from-E1-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixZB      --from-E2-Metrices.txt` - File, 614 B.
+- `Left_HandMatrixZB      --from-F1-Metrices.txt` - File, 546 B.
+- `Left_HandMatrixZB      --from-F2-Metrices.txt` - File, 682 B.
+- `Left_HandMatrixZB      --from-G1-Metrices.txt` - File, 682 B.
+- `Left_HandMatrixZB      --from-G2-Metrices.txt` - File, 818 B.
+- `Left_HandMatrixZB      .txt` - File, 546 B.
+- `Left_HandPalm_M        --from-A1-Metrices.txt` - File, 546 B.
+- `Left_HandPalm_M        --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandPalm_M        --from-B2-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_M        --from-C1-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_M        --from-C2-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_M        --from-D1-Metrices.txt` - File, 546 B.
+- `Left_HandPalm_M        --from-D2-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_M        --from-E1-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_M        --from-E2-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_M        --from-F1-Metrices.txt` - File, 546 B.
+- `Left_HandPalm_M        --from-F2-Metrices.txt` - File, 682 B.
+- `Left_HandPalm_M        --from-G1-Metrices.txt` - File, 682 B.
+- `Left_HandPalm_M        .txt` - File, 546 B.
+- `Left_HandPalm_N        --from-A1-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_N        --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandPalm_N        --from-B2-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_N        --from-C1-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_N        --from-C2-Metrices.txt` - File, 618 B.
+- `Left_HandPalm_N        --from-D1-Metrices.txt` - File, 546 B.
+- `Left_HandPalm_N        --from-D2-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_N        --from-E1-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_N        --from-E2-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_N        --from-F1-Metrices.txt` - File, 546 B.
+- `Left_HandPalm_N        --from-F2-Metrices.txt` - File, 682 B.
+- `Left_HandPalm_N        --from-G1-Metrices.txt` - File, 682 B.
+- `Left_HandPalm_N        .txt` - File, 546 B.
+- `Left_HandPalm_P        --from-A1-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_P        --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandPalm_P        --from-B2-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_P        --from-C1-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_P        --from-C2-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_P        --from-D1-Metrices.txt` - File, 546 B.
+- `Left_HandPalm_P        --from-D2-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_P        --from-E1-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_P        --from-E2-Metrices.txt` - File, 614 B.
+- `Left_HandPalm_P        --from-F1-Metrices.txt` - File, 546 B.
+- `Left_HandPalm_P        --from-F2-Metrices.txt` - File, 682 B.
+- `Left_HandPalm_P        --from-G1-Metrices.txt` - File, 682 B.
+- `Left_HandPalm_P        .txt` - File, 546 B.
+- `Left_HandWrist_M       --from-A1-Metrices.txt` - File, 546 B.
+- `Left_HandWrist_M       --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandWrist_M       --from-B2-Metrices.txt` - File, 478 B.
+- `Left_HandWrist_M       --from-C1-Metrices.txt` - File, 546 B.
+- `Left_HandWrist_M       --from-C2-Metrices.txt` - File, 614 B.
+- `Left_HandWrist_M       --from-D1-Metrices.txt` - File, 546 B.
+- `Left_HandWrist_M       --from-D2-Metrices.txt` - File, 614 B.
+- `Left_HandWrist_M       --from-E1-Metrices.txt` - File, 614 B.
+- `Left_HandWrist_M       --from-E2-Metrices.txt` - File, 614 B.
+- `Left_HandWrist_M       --from-F1-Metrices.txt` - File, 546 B.
+- `Left_HandWrist_M       --from-F2-Metrices.txt` - File, 682 B.
+- `Left_HandWrist_M       --from-G1-Metrices.txt` - File, 682 B.
+- `Left_HandWrist_M       .txt` - File, 546 B.
+- `Left_HandWrist_N       --from-A1-Metrices.txt` - File, 548 B.
+- `Left_HandWrist_N       --from-A2-Metrices.txt` - File, 479 B.
+- `Left_HandWrist_N       --from-B2-Metrices.txt` - File, 614 B.
+- `Left_HandWrist_N       --from-C1-Metrices.txt` - File, 546 B.
+- `Left_HandWrist_N       --from-C2-Metrices.txt` - File, 614 B.
+- `Left_HandWrist_N       --from-D1-Metrices.txt` - File, 550 B.
+- `Left_HandWrist_N       --from-D2-Metrices.txt` - File, 614 B.
+- `Left_HandWrist_N       --from-E1-Metrices.txt` - File, 616 B.
+- `Left_HandWrist_N       --from-E2-Metrices.txt` - File, 614 B.
+- `Left_HandWrist_N       --from-F1-Metrices.txt` - File, 546 B.
+- `Left_HandWrist_N       --from-F2-Metrices.txt` - File, 682 B.
+- `Left_HandWrist_N       --from-G1-Metrices.txt` - File, 682 B.
+- `Left_HandWrist_N       .txt` - File, 548 B.
+- `Left_HandWrist_P       --from-A1-Metrices.txt` - File, 546 B.
+- `Left_HandWrist_P       --from-A2-Metrices.txt` - File, 478 B.
+- `Left_HandWrist_P       --from-B2-Metrices.txt` - File, 614 B.
+- `Left_HandWrist_P       --from-C1-Metrices.txt` - File, 614 B.
+- `Left_HandWrist_P       --from-C2-Metrices.txt` - File, 614 B.
+- `Left_HandWrist_P       --from-D1-Metrices.txt` - File, 546 B.
+- `Left_HandWrist_P       --from-D2-Metrices.txt` - File, 614 B.
+- `Left_HandWrist_P       --from-E1-Metrices.txt` - File, 614 B.
+- `Left_HandWrist_P       --from-E2-Metrices.txt` - File, 614 B.
+- `Left_HandWrist_P       --from-F1-Metrices.txt` - File, 546 B.
+- `Left_HandWrist_P       --from-F2-Metrices.txt` - File, 682 B.
+- `Left_HandWrist_P       --from-G1-Metrices.txt` - File, 682 B.
+- `Left_HandWrist_P       .txt` - File, 546 B.
+- `LightBuzz.Vitruvius.csproj.FileListAbsolute--from-x86-Debug.txt` - File, 1.1 KB.
+- `LightBuzz.Vitruvius.csproj.FileListAbsolute.txt` - File, 2.3 KB.
+- `main.pdf` - File, 12.5 KB.
+- `Neck                   --from-A1-Metrices.txt` - File, 478 B.
+- `Neck                   --from-A2-Metrices.txt` - File, 478 B.
+- `Neck                   --from-B2-Metrices.txt` - File, 478 B.
+- `Neck                   --from-C1-Metrices.txt` - File, 478 B.
+- `Neck                   --from-C2-Metrices.txt` - File, 478 B.
+- `Neck                   --from-D1-Metrices.txt` - File, 478 B.
+- `Neck                   --from-D2-Metrices.txt` - File, 478 B.
+- `Neck                   --from-E1-Metrices.txt` - File, 478 B.
+- `Neck                   --from-E2-Metrices.txt` - File, 478 B.
+- `Neck                   --from-F1-Metrices.txt` - File, 478 B.
+- `Neck                   --from-F2-Metrices.txt` - File, 478 B.
+- `Neck                   --from-G1-Metrices.txt` - File, 478 B.
+- `Neck                   .txt` - File, 478 B.
+- `NuiExpressionModelManifest.txt` - File, 293 B.
+- `Others_Arm_Features    --from-A1-Metrices.txt` - File, 478 B.
+- `Others_Arm_Features    --from-A2-Metrices.txt` - File, 478 B.
+- `Others_Arm_Features    --from-B2-Metrices.txt` - File, 410 B.
+- `Others_Arm_Features    --from-C1-Metrices.txt` - File, 410 B.
+- `Others_Arm_Features    --from-C2-Metrices.txt` - File, 546 B.
+- `Others_Arm_Features    --from-D1-Metrices.txt` - File, 478 B.
+- `Others_Arm_Features    --from-D2-Metrices.txt` - File, 614 B.
+- `Others_Arm_Features    --from-E1-Metrices.txt` - File, 546 B.
+- `Others_Arm_Features    --from-E2-Metrices.txt` - File, 546 B.
+- `Others_Arm_Features    --from-F1-Metrices.txt` - File, 478 B.
+- `Others_Arm_Features    --from-F2-Metrices.txt` - File, 614 B.
+- `Others_Arm_Features    --from-G1-Metrices.txt` - File, 614 B.
+- `Others_Arm_Features    .txt` - File, 478 B.
+- `Others_Elbow_Features  --from-A1-Metrices.txt` - File, 478 B.
+- `Others_Elbow_Features  --from-A2-Metrices.txt` - File, 478 B.
+- `Others_Elbow_Features  --from-B2-Metrices.txt` - File, 410 B.
+- `Others_Elbow_Features  --from-C1-Metrices.txt` - File, 342 B.
+- `Others_Elbow_Features  --from-C2-Metrices.txt` - File, 478 B.
+- `Others_Elbow_Features  --from-D1-Metrices.txt` - File, 478 B.
+- `Others_Elbow_Features  --from-D2-Metrices.txt` - File, 478 B.
+- `Others_Elbow_Features  --from-E1-Metrices.txt` - File, 342 B.
+- `Others_Elbow_Features  --from-E2-Metrices.txt` - File, 478 B.
+- `Others_Elbow_Features  --from-F1-Metrices.txt` - File, 410 B.
+- `Others_Elbow_Features  --from-F2-Metrices.txt` - File, 478 B.
+- `Others_Elbow_Features  --from-G1-Metrices.txt` - File, 546 B.
+- `Others_Elbow_Features  .txt` - File, 478 B.
+- `Others_Finger_Featuers --from-A1-Metrices.txt` - File, 2.3 KB.
+- `Others_Finger_Featuers --from-A2-Metrices.txt` - File, 2.3 KB.
+- `Others_Finger_Featuers --from-B2-Metrices.txt` - File, 1.9 KB.
+- `Others_Finger_Featuers --from-C1-Metrices.txt` - File, 2.1 KB.
+- `Others_Finger_Featuers --from-C2-Metrices.txt` - File, 2.3 KB.
+- `Others_Finger_Featuers --from-D1-Metrices.txt` - File, 2.4 KB.
+- `Others_Finger_Featuers --from-D2-Metrices.txt` - File, 2.2 KB.
+- `Others_Finger_Featuers --from-E1-Metrices.txt` - File, 2.1 KB.
+- `Others_Finger_Featuers --from-E2-Metrices.txt` - File, 2.3 KB.
+- `Others_Finger_Featuers --from-F1-Metrices.txt` - File, 2.1 KB.
+- `Others_Finger_Featuers --from-F2-Metrices.txt` - File, 2.3 KB.
+- `Others_Finger_Featuers --from-G1-Metrices.txt` - File, 2.5 KB.
+- `Others_Finger_Featuers .txt` - File, 2.6 KB.
+- `Others_Hand_Features   --from-A1-Metrices.txt` - File, 614 B.
+- `Others_Hand_Features   --from-A2-Metrices.txt` - File, 478 B.
+- `Others_Hand_Features   --from-B2-Metrices.txt` - File, 615 B.
+- `Others_Hand_Features   --from-C1-Metrices.txt` - File, 614 B.
+- `Others_Hand_Features   --from-C2-Metrices.txt` - File, 614 B.
+- `Others_Hand_Features   --from-D1-Metrices.txt` - File, 550 B.
+- `Others_Hand_Features   --from-D2-Metrices.txt` - File, 614 B.
+- `Others_Hand_Features   --from-E1-Metrices.txt` - File, 614 B.
+- `Others_Hand_Features   --from-E2-Metrices.txt` - File, 614 B.
+- `Others_Hand_Features   --from-F1-Metrices.txt` - File, 546 B.
+- `Others_Hand_Features   --from-F2-Metrices.txt` - File, 682 B.
+- `Others_Hand_Features   --from-G1-Metrices.txt` - File, 682 B.
+- `Others_Hand_Features   .txt` - File, 546 B.
+- `Others_Palm_Features   --from-A1-Metrices.txt` - File, 614 B.
+- `Others_Palm_Features   --from-A2-Metrices.txt` - File, 478 B.
+- `Others_Palm_Features   --from-B2-Metrices.txt` - File, 614 B.
+- `Others_Palm_Features   --from-C1-Metrices.txt` - File, 614 B.
+- `Others_Palm_Features   --from-C2-Metrices.txt` - File, 614 B.
+- `Others_Palm_Features   --from-D1-Metrices.txt` - File, 546 B.
+- `Others_Palm_Features   --from-D2-Metrices.txt` - File, 614 B.
+- `Others_Palm_Features   --from-E1-Metrices.txt` - File, 614 B.
+- `Others_Palm_Features   --from-E2-Metrices.txt` - File, 614 B.
+- `Others_Palm_Features   --from-F1-Metrices.txt` - File, 546 B.
+- `Others_Palm_Features   --from-F2-Metrices.txt` - File, 682 B.
+- `Others_Palm_Features   --from-G1-Metrices.txt` - File, 682 B.
+- `Others_Palm_Features   .txt` - File, 546 B.
+- `Others_Wrist_Features  --from-A1-Metrices.txt` - File, 546 B.
+- `Others_Wrist_Features  --from-A2-Metrices.txt` - File, 478 B.
+- `Others_Wrist_Features  --from-B2-Metrices.txt` - File, 546 B.
+- `Others_Wrist_Features  --from-C1-Metrices.txt` - File, 546 B.
+- `Others_Wrist_Features  --from-C2-Metrices.txt` - File, 614 B.
+- `Others_Wrist_Features  --from-D1-Metrices.txt` - File, 546 B.
+- `Others_Wrist_Features  --from-D2-Metrices.txt` - File, 614 B.
+- `Others_Wrist_Features  --from-E1-Metrices.txt` - File, 614 B.
+- `Others_Wrist_Features  --from-E2-Metrices.txt` - File, 614 B.
+- `Others_Wrist_Features  --from-F1-Metrices.txt` - File, 546 B.
+- `Others_Wrist_Features  --from-F2-Metrices.txt` - File, 682 B.
+- `Others_Wrist_Features  --from-G1-Metrices.txt` - File, 682 B.
+- `Others_Wrist_Features  .txt` - File, 546 B.
+- `Project System Architecture.png` - File, 19.9 KB.
+- `Project System Architecture.vsdx` - File, 95.2 KB.
+- `ShoulderLeft           --from-A1-Metrices.txt` - File, 478 B.
+- `ShoulderLeft           --from-A2-Metrices.txt` - File, 478 B.
+- `ShoulderLeft           --from-B2-Metrices.txt` - File, 478 B.
+- `ShoulderLeft           --from-C1-Metrices.txt` - File, 478 B.
+- `ShoulderLeft           --from-C2-Metrices.txt` - File, 478 B.
+- `ShoulderLeft           --from-D1-Metrices.txt` - File, 478 B.
+- `ShoulderLeft           --from-D2-Metrices.txt` - File, 478 B.
+- `ShoulderLeft           --from-E1-Metrices.txt` - File, 478 B.
+- `ShoulderLeft           --from-E2-Metrices.txt` - File, 478 B.
+- `ShoulderLeft           --from-F1-Metrices.txt` - File, 478 B.
+- `ShoulderLeft           --from-F2-Metrices.txt` - File, 478 B.
+- `ShoulderLeft           --from-G1-Metrices.txt` - File, 478 B.
+- `ShoulderLeft           .txt` - File, 478 B.
+- `ShoulderRight          --from-A1-Metrices.txt` - File, 478 B.
+- `ShoulderRight          --from-A2-Metrices.txt` - File, 478 B.
+- `ShoulderRight          --from-B2-Metrices.txt` - File, 478 B.
+- `ShoulderRight          --from-C1-Metrices.txt` - File, 478 B.
+- `ShoulderRight          --from-C2-Metrices.txt` - File, 478 B.
+- `ShoulderRight          --from-D1-Metrices.txt` - File, 478 B.
+- `ShoulderRight          --from-D2-Metrices.txt` - File, 478 B.
+- `ShoulderRight          --from-E1-Metrices.txt` - File, 478 B.
+- `ShoulderRight          --from-E2-Metrices.txt` - File, 478 B.
+- `ShoulderRight          --from-F1-Metrices.txt` - File, 478 B.
+- `ShoulderRight          --from-F2-Metrices.txt` - File, 478 B.
+- `ShoulderRight          --from-G1-Metrices.txt` - File, 478 B.
+- `ShoulderRight          .txt` - File, 478 B.
+- `SpineMid               --from-A1-Metrices.txt` - File, 478 B.
+- `SpineMid               --from-A2-Metrices.txt` - File, 478 B.
+- `SpineMid               --from-B2-Metrices.txt` - File, 478 B.
+- `SpineMid               --from-C1-Metrices.txt` - File, 478 B.
+- `SpineMid               --from-C2-Metrices.txt` - File, 478 B.
+- `SpineMid               --from-D1-Metrices.txt` - File, 478 B.
+- `SpineMid               --from-D2-Metrices.txt` - File, 478 B.
+- `SpineMid               --from-E1-Metrices.txt` - File, 478 B.
+- `SpineMid               --from-E2-Metrices.txt` - File, 478 B.
+- `SpineMid               --from-F1-Metrices.txt` - File, 478 B.
+- `SpineMid               --from-F2-Metrices.txt` - File, 478 B.
+- `SpineMid               --from-G1-Metrices.txt` - File, 478 B.
+- `SpineMid               .txt` - File, 478 B.
+- `SpineShoulder          --from-A1-Metrices.txt` - File, 478 B.
+- `SpineShoulder          --from-A2-Metrices.txt` - File, 478 B.
+- `SpineShoulder          --from-B2-Metrices.txt` - File, 478 B.
+- `SpineShoulder          --from-C1-Metrices.txt` - File, 478 B.
+- `SpineShoulder          --from-C2-Metrices.txt` - File, 478 B.
+- `SpineShoulder          --from-D1-Metrices.txt` - File, 478 B.
+- `SpineShoulder          --from-D2-Metrices.txt` - File, 478 B.
+- `SpineShoulder          --from-E1-Metrices.txt` - File, 478 B.
+- `SpineShoulder          --from-E2-Metrices.txt` - File, 478 B.
+- `SpineShoulder          --from-F1-Metrices.txt` - File, 478 B.
+- `SpineShoulder          --from-F2-Metrices.txt` - File, 478 B.
+- `SpineShoulder          --from-G1-Metrices.txt` - File, 478 B.
+- `SpineShoulder          .txt` - File, 478 B.
+- `ThumbLeft              --from-A1-Metrices.txt` - File, 478 B.
+- `ThumbLeft              --from-A2-Metrices.txt` - File, 478 B.
+- `ThumbLeft              --from-B2-Metrices.txt` - File, 478 B.
+- `ThumbLeft              --from-C1-Metrices.txt` - File, 478 B.
+- `ThumbLeft              --from-C2-Metrices.txt` - File, 478 B.
+- `ThumbLeft              --from-D1-Metrices.txt` - File, 478 B.
+- `ThumbLeft              --from-D2-Metrices.txt` - File, 478 B.
+- `ThumbLeft              --from-E1-Metrices.txt` - File, 478 B.
+- `ThumbLeft              --from-E2-Metrices.txt` - File, 478 B.
+- `ThumbLeft              --from-F1-Metrices.txt` - File, 478 B.
+- `ThumbLeft              --from-F2-Metrices.txt` - File, 478 B.
+- `ThumbLeft              --from-G1-Metrices.txt` - File, 478 B.
+- `ThumbLeft              .txt` - File, 478 B.
+- `ThumbRight             --from-A1-Metrices.txt` - File, 478 B.
+- `ThumbRight             --from-A2-Metrices.txt` - File, 478 B.
+- `ThumbRight             --from-B2-Metrices.txt` - File, 478 B.
+- `ThumbRight             --from-C1-Metrices.txt` - File, 478 B.
+- `ThumbRight             --from-C2-Metrices.txt` - File, 478 B.
+- `ThumbRight             --from-D1-Metrices.txt` - File, 478 B.
+- `ThumbRight             --from-D2-Metrices.txt` - File, 478 B.
+- `ThumbRight             --from-E1-Metrices.txt` - File, 478 B.
+- `ThumbRight             --from-E2-Metrices.txt` - File, 478 B.
+- `ThumbRight             --from-F1-Metrices.txt` - File, 478 B.
+- `ThumbRight             --from-F2-Metrices.txt` - File, 478 B.
+- `ThumbRight             --from-G1-Metrices.txt` - File, 478 B.
+- `ThumbRight             .txt` - File, 478 B.
+- `TYPE_INDEX             --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_INDEX             --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_INDEX             --from-B2-Metrices.txt` - File, 546 B.
+- `TYPE_INDEX             --from-C1-Metrices.txt` - File, 546 B.
+- `TYPE_INDEX             --from-C2-Metrices.txt` - File, 478 B.
+- `TYPE_INDEX             --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_INDEX             --from-D2-Metrices.txt` - File, 478 B.
+- `TYPE_INDEX             --from-E1-Metrices.txt` - File, 478 B.
+- `TYPE_INDEX             --from-E2-Metrices.txt` - File, 614 B.
+- `TYPE_INDEX             --from-F1-Metrices.txt` - File, 478 B.
+- `TYPE_INDEX             --from-F2-Metrices.txt` - File, 546 B.
+- `TYPE_INDEX             --from-G1-Metrices.txt` - File, 682 B.
+- `TYPE_INDEX             .txt` - File, 546 B.
+- `TYPE_INDEXD_N          --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXD_N          --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXD_N          --from-B2-Metrices.txt` - File, 342 B.
+- `TYPE_INDEXD_N          --from-C1-Metrices.txt` - File, 342 B.
+- `TYPE_INDEXD_N          --from-C2-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXD_N          --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXD_N          --from-D2-Metrices.txt` - File, 410 B.
+- `TYPE_INDEXD_N          --from-E1-Metrices.txt` - File, 342 B.
+- `TYPE_INDEXD_N          --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_INDEXD_N          --from-F1-Metrices.txt` - File, 410 B.
+- `TYPE_INDEXD_N          --from-F2-Metrices.txt` - File, 342 B.
+- `TYPE_INDEXD_N          --from-G1-Metrices.txt` - File, 546 B.
+- `TYPE_INDEXD_N          .txt` - File, 546 B.
+- `TYPE_INDEXTipP         --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipP         --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipP         --from-B2-Metrices.txt` - File, 546 B.
+- `TYPE_INDEXTipP         --from-C1-Metrices.txt` - File, 546 B.
+- `TYPE_INDEXTipP         --from-C2-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipP         --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipP         --from-D2-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipP         --from-E1-Metrices.txt` - File, 410 B.
+- `TYPE_INDEXTipP         --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_INDEXTipP         --from-F1-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipP         --from-F2-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipP         --from-G1-Metrices.txt` - File, 682 B.
+- `TYPE_INDEXTipP         .txt` - File, 546 B.
+- `TYPE_INDEXTipS         --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipS         --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipS         --from-B2-Metrices.txt` - File, 410 B.
+- `TYPE_INDEXTipS         --from-C1-Metrices.txt` - File, 342 B.
+- `TYPE_INDEXTipS         --from-C2-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipS         --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipS         --from-D2-Metrices.txt` - File, 410 B.
+- `TYPE_INDEXTipS         --from-E1-Metrices.txt` - File, 342 B.
+- `TYPE_INDEXTipS         --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_INDEXTipS         --from-F1-Metrices.txt` - File, 410 B.
+- `TYPE_INDEXTipS         --from-F2-Metrices.txt` - File, 410 B.
+- `TYPE_INDEXTipS         --from-G1-Metrices.txt` - File, 614 B.
+- `TYPE_INDEXTipS         .txt` - File, 546 B.
+- `TYPE_INDEXTipV         --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipV         --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipV         --from-B2-Metrices.txt` - File, 410 B.
+- `TYPE_INDEXTipV         --from-C1-Metrices.txt` - File, 410 B.
+- `TYPE_INDEXTipV         --from-C2-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipV         --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipV         --from-D2-Metrices.txt` - File, 410 B.
+- `TYPE_INDEXTipV         --from-E1-Metrices.txt` - File, 410 B.
+- `TYPE_INDEXTipV         --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_INDEXTipV         --from-F1-Metrices.txt` - File, 478 B.
+- `TYPE_INDEXTipV         --from-F2-Metrices.txt` - File, 410 B.
+- `TYPE_INDEXTipV         --from-G1-Metrices.txt` - File, 682 B.
+- `TYPE_INDEXTipV         .txt` - File, 546 B.
+- `TYPE_MIDDLE            --from-A1-Metrices.txt` - File, 547 B.
+- `TYPE_MIDDLE            --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLE            --from-B2-Metrices.txt` - File, 682 B.
+- `TYPE_MIDDLE            --from-C1-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLE            --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLE            --from-D1-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLE            --from-D2-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLE            --from-E1-Metrices.txt` - File, 614 B.
+- `TYPE_MIDDLE            --from-E2-Metrices.txt` - File, 614 B.
+- `TYPE_MIDDLE            --from-F1-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLE            --from-F2-Metrices.txt` - File, 682 B.
+- `TYPE_MIDDLE            --from-G1-Metrices.txt` - File, 614 B.
+- `TYPE_MIDDLE            .txt` - File, 546 B.
+- `TYPE_MIDDLED_N         --from-A1-Metrices.txt` - File, 479 B.
+- `TYPE_MIDDLED_N         --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLED_N         --from-B2-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLED_N         --from-C1-Metrices.txt` - File, 410 B.
+- `TYPE_MIDDLED_N         --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLED_N         --from-D1-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLED_N         --from-D2-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLED_N         --from-E1-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLED_N         --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLED_N         --from-F1-Metrices.txt` - File, 410 B.
+- `TYPE_MIDDLED_N         --from-F2-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLED_N         --from-G1-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLED_N         .txt` - File, 546 B.
+- `TYPE_MIDDLETipP        --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLETipP        --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLETipP        --from-B2-Metrices.txt` - File, 614 B.
+- `TYPE_MIDDLETipP        --from-C1-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipP        --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipP        --from-D1-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipP        --from-D2-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipP        --from-E1-Metrices.txt` - File, 614 B.
+- `TYPE_MIDDLETipP        --from-E2-Metrices.txt` - File, 614 B.
+- `TYPE_MIDDLETipP        --from-F1-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipP        --from-F2-Metrices.txt` - File, 614 B.
+- `TYPE_MIDDLETipP        --from-G1-Metrices.txt` - File, 614 B.
+- `TYPE_MIDDLETipP        .txt` - File, 546 B.
+- `TYPE_MIDDLETipS        --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLETipS        --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLETipS        --from-B2-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipS        --from-C1-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLETipS        --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipS        --from-D1-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipS        --from-D2-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLETipS        --from-E1-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipS        --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipS        --from-F1-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLETipS        --from-F2-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipS        --from-G1-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipS        .txt` - File, 546 B.
+- `TYPE_MIDDLETipV        --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLETipV        --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLETipV        --from-B2-Metrices.txt` - File, 614 B.
+- `TYPE_MIDDLETipV        --from-C1-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLETipV        --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipV        --from-D1-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipV        --from-D2-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipV        --from-E1-Metrices.txt` - File, 614 B.
+- `TYPE_MIDDLETipV        --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipV        --from-F1-Metrices.txt` - File, 478 B.
+- `TYPE_MIDDLETipV        --from-F2-Metrices.txt` - File, 614 B.
+- `TYPE_MIDDLETipV        --from-G1-Metrices.txt` - File, 546 B.
+- `TYPE_MIDDLETipV        .txt` - File, 546 B.
+- `TYPE_PINKY             --from-A1-Metrices.txt` - File, 614 B.
+- `TYPE_PINKY             --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_PINKY             --from-B2-Metrices.txt` - File, 614 B.
+- `TYPE_PINKY             --from-C1-Metrices.txt` - File, 614 B.
+- `TYPE_PINKY             --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_PINKY             --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_PINKY             --from-D2-Metrices.txt` - File, 614 B.
+- `TYPE_PINKY             --from-E1-Metrices.txt` - File, 682 B.
+- `TYPE_PINKY             --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_PINKY             --from-F1-Metrices.txt` - File, 546 B.
+- `TYPE_PINKY             --from-F2-Metrices.txt` - File, 614 B.
+- `TYPE_PINKY             --from-G1-Metrices.txt` - File, 614 B.
+- `TYPE_PINKY             .txt` - File, 546 B.
+- `TYPE_PINKYD_N          --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYD_N          --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYD_N          --from-B2-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYD_N          --from-C1-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYD_N          --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYD_N          --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYD_N          --from-D2-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYD_N          --from-E1-Metrices.txt` - File, 614 B.
+- `TYPE_PINKYD_N          --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYD_N          --from-F1-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYD_N          --from-F2-Metrices.txt` - File, 614 B.
+- `TYPE_PINKYD_N          --from-G1-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYD_N          .txt` - File, 546 B.
+- `TYPE_PINKYTipP         --from-A1-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipP         --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYTipP         --from-B2-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipP         --from-C1-Metrices.txt` - File, 614 B.
+- `TYPE_PINKYTipP         --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipP         --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYTipP         --from-D2-Metrices.txt` - File, 614 B.
+- `TYPE_PINKYTipP         --from-E1-Metrices.txt` - File, 682 B.
+- `TYPE_PINKYTipP         --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipP         --from-F1-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipP         --from-F2-Metrices.txt` - File, 614 B.
+- `TYPE_PINKYTipP         --from-G1-Metrices.txt` - File, 614 B.
+- `TYPE_PINKYTipP         .txt` - File, 546 B.
+- `TYPE_PINKYTipS         --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYTipS         --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYTipS         --from-B2-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYTipS         --from-C1-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipS         --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipS         --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYTipS         --from-D2-Metrices.txt` - File, 614 B.
+- `TYPE_PINKYTipS         --from-E1-Metrices.txt` - File, 614 B.
+- `TYPE_PINKYTipS         --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipS         --from-F1-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipS         --from-F2-Metrices.txt` - File, 614 B.
+- `TYPE_PINKYTipS         --from-G1-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipS         .txt` - File, 546 B.
+- `TYPE_PINKYTipV         --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYTipV         --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYTipV         --from-B2-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipV         --from-C1-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipV         --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipV         --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_PINKYTipV         --from-D2-Metrices.txt` - File, 614 B.
+- `TYPE_PINKYTipV         --from-E1-Metrices.txt` - File, 682 B.
+- `TYPE_PINKYTipV         --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipV         --from-F1-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipV         --from-F2-Metrices.txt` - File, 614 B.
+- `TYPE_PINKYTipV         --from-G1-Metrices.txt` - File, 546 B.
+- `TYPE_PINKYTipV         .txt` - File, 546 B.
+- `TYPE_RING              --from-A1-Metrices.txt` - File, 614 B.
+- `TYPE_RING              --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_RING              --from-B2-Metrices.txt` - File, 546 B.
+- `TYPE_RING              --from-C1-Metrices.txt` - File, 682 B.
+- `TYPE_RING              --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_RING              --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_RING              --from-D2-Metrices.txt` - File, 546 B.
+- `TYPE_RING              --from-E1-Metrices.txt` - File, 682 B.
+- `TYPE_RING              --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_RING              --from-F1-Metrices.txt` - File, 546 B.
+- `TYPE_RING              --from-F2-Metrices.txt` - File, 614 B.
+- `TYPE_RING              --from-G1-Metrices.txt` - File, 614 B.
+- `TYPE_RING              .txt` - File, 546 B.
+- `TYPE_RINGD_N           --from-A1-Metrices.txt` - File, 546 B.
+- `TYPE_RINGD_N           --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_RINGD_N           --from-B2-Metrices.txt` - File, 410 B.
+- `TYPE_RINGD_N           --from-C1-Metrices.txt` - File, 614 B.
+- `TYPE_RINGD_N           --from-C2-Metrices.txt` - File, 478 B.
+- `TYPE_RINGD_N           --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_RINGD_N           --from-D2-Metrices.txt` - File, 478 B.
+- `TYPE_RINGD_N           --from-E1-Metrices.txt` - File, 546 B.
+- `TYPE_RINGD_N           --from-E2-Metrices.txt` - File, 478 B.
+- `TYPE_RINGD_N           --from-F1-Metrices.txt` - File, 410 B.
+- `TYPE_RINGD_N           --from-F2-Metrices.txt` - File, 546 B.
+- `TYPE_RINGD_N           --from-G1-Metrices.txt` - File, 478 B.
+- `TYPE_RINGD_N           .txt` - File, 546 B.
+- `TYPE_RINGTipP          --from-A1-Metrices.txt` - File, 546 B.
+- `TYPE_RINGTipP          --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_RINGTipP          --from-B2-Metrices.txt` - File, 546 B.
+- `TYPE_RINGTipP          --from-C1-Metrices.txt` - File, 682 B.
+- `TYPE_RINGTipP          --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_RINGTipP          --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_RINGTipP          --from-D2-Metrices.txt` - File, 546 B.
+- `TYPE_RINGTipP          --from-E1-Metrices.txt` - File, 682 B.
+- `TYPE_RINGTipP          --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_RINGTipP          --from-F1-Metrices.txt` - File, 546 B.
+- `TYPE_RINGTipP          --from-F2-Metrices.txt` - File, 614 B.
+- `TYPE_RINGTipP          --from-G1-Metrices.txt` - File, 614 B.
+- `TYPE_RINGTipP          .txt` - File, 546 B.
+- `TYPE_RINGTipS          --from-A1-Metrices.txt` - File, 546 B.
+- `TYPE_RINGTipS          --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_RINGTipS          --from-B2-Metrices.txt` - File, 478 B.
+- `TYPE_RINGTipS          --from-C1-Metrices.txt` - File, 682 B.
+- `TYPE_RINGTipS          --from-C2-Metrices.txt` - File, 478 B.
+- `TYPE_RINGTipS          --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_RINGTipS          --from-D2-Metrices.txt` - File, 546 B.
+- `TYPE_RINGTipS          --from-E1-Metrices.txt` - File, 614 B.
+- `TYPE_RINGTipS          --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_RINGTipS          --from-F1-Metrices.txt` - File, 478 B.
+- `TYPE_RINGTipS          --from-F2-Metrices.txt` - File, 614 B.
+- `TYPE_RINGTipS          --from-G1-Metrices.txt` - File, 478 B.
+- `TYPE_RINGTipS          .txt` - File, 546 B.
+- `TYPE_RINGTipV          --from-A1-Metrices.txt` - File, 546 B.
+- `TYPE_RINGTipV          --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_RINGTipV          --from-B2-Metrices.txt` - File, 546 B.
+- `TYPE_RINGTipV          --from-C1-Metrices.txt` - File, 682 B.
+- `TYPE_RINGTipV          --from-C2-Metrices.txt` - File, 478 B.
+- `TYPE_RINGTipV          --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_RINGTipV          --from-D2-Metrices.txt` - File, 546 B.
+- `TYPE_RINGTipV          --from-E1-Metrices.txt` - File, 682 B.
+- `TYPE_RINGTipV          --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_RINGTipV          --from-F1-Metrices.txt` - File, 478 B.
+- `TYPE_RINGTipV          --from-F2-Metrices.txt` - File, 614 B.
+- `TYPE_RINGTipV          --from-G1-Metrices.txt` - File, 546 B.
+- `TYPE_RINGTipV          .txt` - File, 546 B.
+- `TYPE_THUMB             --from-A1-Metrices.txt` - File, 546 B.
+- `TYPE_THUMB             --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_THUMB             --from-B2-Metrices.txt` - File, 546 B.
+- `TYPE_THUMB             --from-C1-Metrices.txt` - File, 410 B.
+- `TYPE_THUMB             --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_THUMB             --from-D1-Metrices.txt` - File, 546 B.
+- `TYPE_THUMB             --from-D2-Metrices.txt` - File, 546 B.
+- `TYPE_THUMB             --from-E1-Metrices.txt` - File, 478 B.
+- `TYPE_THUMB             --from-E2-Metrices.txt` - File, 546 B.
+- `TYPE_THUMB             --from-F1-Metrices.txt` - File, 410 B.
+- `TYPE_THUMB             --from-F2-Metrices.txt` - File, 547 B.
+- `TYPE_THUMB             --from-G1-Metrices.txt` - File, 614 B.
+- `TYPE_THUMB             .txt` - File, 478 B.
+- `TYPE_THUMBD_N          --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBD_N          --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBD_N          --from-B2-Metrices.txt` - File, 342 B.
+- `TYPE_THUMBD_N          --from-C1-Metrices.txt` - File, 342 B.
+- `TYPE_THUMBD_N          --from-C2-Metrices.txt` - File, 410 B.
+- `TYPE_THUMBD_N          --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBD_N          --from-D2-Metrices.txt` - File, 410 B.
+- `TYPE_THUMBD_N          --from-E1-Metrices.txt` - File, 274 B.
+- `TYPE_THUMBD_N          --from-E2-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBD_N          --from-F1-Metrices.txt` - File, 410 B.
+- `TYPE_THUMBD_N          --from-F2-Metrices.txt` - File, 479 B.
+- `TYPE_THUMBD_N          --from-G1-Metrices.txt` - File, 546 B.
+- `TYPE_THUMBD_N          .txt` - File, 478 B.
+- `TYPE_THUMBTipP         --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipP         --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipP         --from-B2-Metrices.txt` - File, 546 B.
+- `TYPE_THUMBTipP         --from-C1-Metrices.txt` - File, 410 B.
+- `TYPE_THUMBTipP         --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_THUMBTipP         --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipP         --from-D2-Metrices.txt` - File, 546 B.
+- `TYPE_THUMBTipP         --from-E1-Metrices.txt` - File, 410 B.
+- `TYPE_THUMBTipP         --from-E2-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipP         --from-F1-Metrices.txt` - File, 410 B.
+- `TYPE_THUMBTipP         --from-F2-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipP         --from-G1-Metrices.txt` - File, 614 B.
+- `TYPE_THUMBTipP         .txt` - File, 478 B.
+- `TYPE_THUMBTipS         --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipS         --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipS         --from-B2-Metrices.txt` - File, 410 B.
+- `TYPE_THUMBTipS         --from-C1-Metrices.txt` - File, 342 B.
+- `TYPE_THUMBTipS         --from-C2-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipS         --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipS         --from-D2-Metrices.txt` - File, 410 B.
+- `TYPE_THUMBTipS         --from-E1-Metrices.txt` - File, 274 B.
+- `TYPE_THUMBTipS         --from-E2-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipS         --from-F1-Metrices.txt` - File, 410 B.
+- `TYPE_THUMBTipS         --from-F2-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipS         --from-G1-Metrices.txt` - File, 614 B.
+- `TYPE_THUMBTipS         .txt` - File, 478 B.
+- `TYPE_THUMBTipV         --from-A1-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipV         --from-A2-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipV         --from-B2-Metrices.txt` - File, 546 B.
+- `TYPE_THUMBTipV         --from-C1-Metrices.txt` - File, 410 B.
+- `TYPE_THUMBTipV         --from-C2-Metrices.txt` - File, 546 B.
+- `TYPE_THUMBTipV         --from-D1-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipV         --from-D2-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipV         --from-E1-Metrices.txt` - File, 342 B.
+- `TYPE_THUMBTipV         --from-E2-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipV         --from-F1-Metrices.txt` - File, 410 B.
+- `TYPE_THUMBTipV         --from-F2-Metrices.txt` - File, 478 B.
+- `TYPE_THUMBTipV         --from-G1-Metrices.txt` - File, 614 B.
+- `TYPE_THUMBTipV         .txt` - File, 478 B.
+- `Workbook1.csv` - File, 95 B.
+- `WristLeft              --from-A1-Metrices.txt` - File, 478 B.
+- `WristLeft              --from-A2-Metrices.txt` - File, 478 B.
+- `WristLeft              --from-B2-Metrices.txt` - File, 478 B.
+- `WristLeft              --from-C1-Metrices.txt` - File, 478 B.
+- `WristLeft              --from-C2-Metrices.txt` - File, 478 B.
+- `WristLeft              --from-D1-Metrices.txt` - File, 478 B.
+- `WristLeft              --from-D2-Metrices.txt` - File, 478 B.
+- `WristLeft              --from-E1-Metrices.txt` - File, 478 B.
+- `WristLeft              --from-E2-Metrices.txt` - File, 478 B.
+- `WristLeft              --from-F1-Metrices.txt` - File, 478 B.
+- `WristLeft              --from-F2-Metrices.txt` - File, 478 B.
+- `WristLeft              --from-G1-Metrices.txt` - File, 478 B.
+- `WristLeft              .txt` - File, 478 B.
+- `WristRight             --from-A1-Metrices.txt` - File, 478 B.
+- `WristRight             --from-A2-Metrices.txt` - File, 478 B.
+- `WristRight             --from-B2-Metrices.txt` - File, 478 B.
+- `WristRight             --from-C1-Metrices.txt` - File, 478 B.
+- `WristRight             --from-C2-Metrices.txt` - File, 478 B.
+- `WristRight             --from-D1-Metrices.txt` - File, 478 B.
+- `WristRight             --from-D2-Metrices.txt` - File, 478 B.
+- `WristRight             --from-E1-Metrices.txt` - File, 478 B.
+- `WristRight             --from-E2-Metrices.txt` - File, 478 B.
+- `WristRight             --from-F1-Metrices.txt` - File, 478 B.
+- `WristRight             --from-F2-Metrices.txt` - File, 478 B.
+- `WristRight             --from-G1-Metrices.txt` - File, 478 B.
+- `WristRight             .txt` - File, 478 B.

@@ -1,0 +1,26 @@
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Kinecting for Windows - Expressions.exe.config
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Kinecting for Windows - Expressions.exe
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Kinecting for Windows - Expressions.pdb
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Coding4Fun.Kinect.WinForm.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\LeapCSharp.NET4.0.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\obj\x64\Debug\MainWindow.baml
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\obj\x64\Debug\MainWindow.g.cs
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\obj\x64\Debug\App.g.cs
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\obj\x64\Debug\Kinecting for Windows - Expressions_MarkupCompile.cache
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\obj\x64\Debug\Kinecting for Windows - Expressions.g.resources
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\obj\x64\Debug\K4W.Expressions.Properties.Resources.resources
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\obj\x64\Debug\K4W.Expressions.csproj.GenerateResource.Cache
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\obj\x64\Debug\Kinecting for Windows - Expressions.exe
+C:\Users\pzg8794\OneDrive\Documents\Milestones2n3\TempProjectFolder\GIIK-Expressions-masterv4\src\K4W.Expressions\obj\x64\Debug\Kinecting for Windows - Expressions.pdb

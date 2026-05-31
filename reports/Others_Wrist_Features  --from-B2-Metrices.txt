@@ -1,0 +1,9 @@
+Others_Wrist_Features  , 1.605042     ,     2.988163 ,     1.78881
+Others_Wrist_Features  , 1.605042     ,     2.988163 ,     1.78881
+Others_Wrist_Features  , 1.633083     ,     2.964568 ,     1.90624
+Others_Wrist_Features  , 1.709942     ,     2.912247 ,    2.111147
+Others_Wrist_Features  , 1.72418      ,     2.910537 ,    2.152178
+Others_Wrist_Features  , 1.688617     ,     2.908159 ,    2.032711
+Others_Wrist_Features  , 1.675159     ,     2.907379 ,    1.984468
+Others_Wrist_Features  , 1.676113     ,     2.909782 ,     1.99183
+

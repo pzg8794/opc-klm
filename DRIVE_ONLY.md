@@ -1,9 +1,22 @@
-# Drive-Only / Non-GitHub Material
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Drive-Only and Heavy Items
 
-Drive source: https://drive.google.com/drive/folders/1sMjN2lg17ecMohW-YlVw2ejnC61mWpdo
+GitHub contains the simple project files: code, papers, reports, presentations, notebooks, and lightweight assets. Heavy media, raw data, installers, archives, model files, and other large binaries stay referenced in Google Drive.
 
-These folders were present in Drive but did not contain GitHub-appropriate simple files after filtering. They are not kept as empty GitHub folders. Check Drive for videos, installers, archives, raw data, or other excluded/heavy artifacts.
+## Drive Sources
 
+- https://drive.google.com/drive/folders/1sMjN2lg17ecMohW-YlVw2ejnC61mWpdo
+
+## Placeholder Directories Removed From GitHub
+
+These were empty or README-only after importing GitHub-appropriate files. Check the Drive source above for heavy/data-only material.
+
+- `reports/src/KLM/bin/`
+- `reports/src/KLM/obj/`
+- `reports/src/KLM/obj/x64/`
+- `reports/src/KLM/obj/x86/`
+- `reports/src/LightBuzz.Vitruvius/`
+- `reports/src/LightBuzz.Vitruvius/obj/`
 - `src/KLM/Data/Alphabet/A/A1/Metrices/`
 - `src/KLM/Data/Alphabet/A/A2/Metrices/`
 - `src/KLM/Data/Alphabet/B/B1/Metrices/`
@@ -18,10 +31,11 @@ These folders were present in Drive but did not contain GitHub-appropriate simpl
 - `src/KLM/Data/Alphabet/F/F2/Metrices/`
 - `src/KLM/Data/Alphabet/G/G1/Metrices/`
 - `src/KLM/Data/Alphabet/G/G2/Metrices/`
-- `src/KLM/Data/Alphabet/H/H1/Metrices/`
-- `src/KLM/Data/Alphabet/H/H2/Metrices/`
 - `src/KLM/bin/Debug/NuiDatabase/`
 - `src/KLM/bin/Debug/NuiDatabase/Expression/`
-- `src/KLM/bin/Debug/NuiDatabase/HDFaceTracker/`
-- `src/KLM/bin/Debug/NuiDatabase/HDFaceTracker/AAMModel/`
-- `src/KLM/bin/Debug/NuiDatabase/HDFaceTracker/EvalModel/`
+- `src/KLM/bin/x86/Debug/NuiDatabase/`
+- `src/KLM/bin/x86/Debug/NuiDatabase/Expression/`
+
+## Import Status
+
+- `1sMjN2lg17ecMohW-YlVw2ejnC61mWpdo`: needs review, rclone exit 124

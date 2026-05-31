@@ -1,34 +1,15 @@
-# opc-klm
+Gen. II Kinect for Windows – First look at Expressions
+==============
 
-Drive source: https://drive.google.com/drive/folders/1sMjN2lg17ecMohW-YlVw2ejnC61mWpdo
+In this post I will walk you through the steps to display the expressions for one user.
 
-Purpose: cleaned old Portafolio repository. Simple source, paper, report, presentation, and documentation files are stored in GitHub; heavy videos, installers, archives, and raw data stay in Drive.
+![K4W logo](http://www.kinectingforwindows.com/wp-content/themes/twentyten/images/headers/logo.jpg)
 
-## Document Areas
+## Disclaimer
+This tutorial is based on the Kinect for Windows Gen II SDK v2.0.1410.19 NuGet Package.
 
-- [`papers/`](./papers/README.md) - Paper/research/proposal materials.
-- [`reports/`](./reports/README.md) - Reports, labs, assignments, notes, manuals, and documentation.
-- [`presentations/`](./presentations/README.md) - Presentations, slides, and posters.
+## Screenshot ##
+This is what the application will look like.
 
-## Top-Level Items
+![Application Screenshot](http://www.kinectingforwindows.com/wp-content/uploads/2014/07/expressions-result.jpg)
 
-- `papers/` (folder)
-- `presentations/` (folder)
-- `reports/` (folder)
-- `src/` (folder)
-- `VideoPad/` (folder)
-- `.gitignore` (file)
-- `001284.jpg` (file)
-- `001494.jpg` (file)
-- `001820.jpg` (file)
-- `DRIVE_OVERVIEW.md` (file)
-- `IMPORT_NOTES.md` (file)
-- `leapmotion.PNG` (file)
-- `LICENSE` (file)
-- `ORIGINAL_README.md` (file)
-- `OVERLEAF_PREP.md` (file)
-- `SA1.PNG` (file)
-
-## Drive-Only Policy
-
-Videos, installers, compressed archives, raw data/binaries, and files too large for GitHub are referenced in `DRIVE_ONLY.md` or `IMPORT_NOTES.md` instead of being committed.

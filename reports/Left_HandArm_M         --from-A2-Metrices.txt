@@ -1,0 +1,8 @@
+Left_HandArm_M         , 0            ,            0 ,   0.9999999
+Left_HandArm_M         , 0            ,            0 ,           1
+Left_HandArm_M         , 0            ,            0 ,           1
+Left_HandArm_M         , 0            ,            0 ,   0.9999999
+Left_HandArm_M         , 0            ,            0 ,   0.9999999
+Left_HandArm_M         , 0            ,            0 ,           1
+Left_HandArm_M         , 0            ,            0 ,           1
+

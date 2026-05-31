@@ -1,0 +1,72 @@
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\Kinecting for Windows - Expressions.exe.config
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\Kinecting for Windows - Expressions.exe
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\Kinecting for Windows - Expressions.pdb
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\LeapCSharp.NET4.0.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\bin\x86\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\obj\x86\Debug\MainWindow.baml
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\obj\x86\Debug\MainWindow.g.cs
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\obj\x86\Debug\App.g.cs
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\obj\x86\Debug\Kinecting for Windows - Expressions_MarkupCompile.cache
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\obj\x86\Debug\Kinecting for Windows - Expressions.g.resources
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\obj\x86\Debug\K4W.Expressions.Properties.Resources.resources
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\obj\x86\Debug\KLM.csproj.GenerateResource.Cache
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\obj\x86\Debug\Kinecting for Windows - Expressions.exe
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\GIIK-Expressions-masterv12-1\src\K4W.Expressions\obj\x86\Debug\Kinecting for Windows - Expressions.pdb
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\Kinecting for Windows - Expressions.exe.config
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\Kinecting for Windows - Expressions.exe
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\Kinecting for Windows - Expressions.pdb
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\LeapCSharp.NET4.0.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\LightBuzz.Vitruvius.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\bin\x86\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\obj\x86\Debug\KLM.csprojResolveAssemblyReference.cache
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\obj\x86\Debug\MainWindow.baml
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\obj\x86\Debug\MainWindow.g.cs
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\obj\x86\Debug\App.g.cs
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\obj\x86\Debug\Kinecting for Windows - Expressions_MarkupCompile.cache
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\obj\x86\Debug\Kinecting for Windows - Expressions.g.resources
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\obj\x86\Debug\K4W.Expressions.Properties.Resources.resources
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\obj\x86\Debug\KLM.csproj.GenerateResource.Cache
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\obj\x86\Debug\Kinecting for Windows - Expressions.exe
+C:\Users\pzg8794\OneDrive\Documents\Milestone3\KLM\src\KLM\obj\x86\Debug\Kinecting for Windows - Expressions.pdb
+C:\Users\Zachary\Desktop\KLM\src\KLM\bin\x86\Debug\Kinecting for Windows - Expressions.exe.config
+C:\Users\Zachary\Desktop\KLM\src\KLM\obj\x86\Debug\Kinecting for Windows - Expressions.exe
+C:\Users\Zachary\Desktop\KLM\src\KLM\obj\x86\Debug\Kinecting for Windows - Expressions.pdb

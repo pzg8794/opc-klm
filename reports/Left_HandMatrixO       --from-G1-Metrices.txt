@@ -1,0 +1,11 @@
+Left_HandMatrixO       , 6.424854     ,     93.52209 ,   -91.63344
+Left_HandMatrixO       , 20.83634     ,     89.12864 ,   -93.59965
+Left_HandMatrixO       , 20.83634     ,     89.12864 ,   -93.59965
+Left_HandMatrixO       , 20.25686     ,     85.59418 ,   -97.91295
+Left_HandMatrixO       , 14.8552      ,     89.06058 ,   -93.16785
+Left_HandMatrixO       , 14.8552      ,     89.06058 ,   -93.16785
+Left_HandMatrixO       , 16.20616     ,     87.78515 ,   -97.60495
+Left_HandMatrixO       , 15.71576     ,     90.56491 ,   -96.04775
+Left_HandMatrixO       , 13.1919      ,     91.10728 ,   -93.55489
+Left_HandMatrixO       , 13.1919      ,     91.10728 ,   -93.55489
+

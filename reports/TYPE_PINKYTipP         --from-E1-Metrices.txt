@@ -1,0 +1,11 @@
+TYPE_PINKYTipP         , 49.94601     ,     125.9724 ,    125.9724
+TYPE_PINKYTipP         , 49.94601     ,     125.9724 ,    125.9724
+TYPE_PINKYTipP         , 57.94334     ,     122.4712 ,    122.4712
+TYPE_PINKYTipP         , 58.19365     ,     122.4701 ,    122.4701
+TYPE_PINKYTipP         , 63.69482     ,     120.2785 ,    120.2785
+TYPE_PINKYTipP         , 63.69482     ,     120.2785 ,    120.2785
+TYPE_PINKYTipP         , 64.80915     ,     118.8581 ,    118.8581
+TYPE_PINKYTipP         , 63.66589     ,     121.4313 ,    121.4313
+TYPE_PINKYTipP         , 62.55272     ,     122.8772 ,    122.8772
+TYPE_PINKYTipP         , 62.27668     ,      122.214 ,     122.214
+
