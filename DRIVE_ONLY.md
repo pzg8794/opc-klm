@@ -39,3 +39,16 @@ These were empty or README-only after importing GitHub-appropriate files. Check 
 ## Import Status
 
 - `1sMjN2lg17ecMohW-YlVw2ejnC61mWpdo`: needs review, rclone exit 124
+
+## Placeholder Paths Removed During Final Audit
+
+These GitHub paths contained only generated README or placeholder files after simple content import. They were removed so the repo does not show folders that look useful but contain no GitHub-appropriate data.
+
+- `src/KLM/bin/`
+- `src/KLM/bin/x86/`
+- `src/KLM/obj/`
+- `src/KLM/obj/x64/`
+- `src/KLM/obj/x86/`
+- `src/LightBuzz.Vitruvius/bin/`
+- `src/LightBuzz.Vitruvius/obj/`
+- `src/LightBuzz.Vitruvius/obj/x86/`
