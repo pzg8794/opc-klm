@@ -1,0 +1,322 @@
+
+\documentclass[final]{beamer}
+
+\usepackage[scale=1.24]{beamerposter} % Use the beamerposter package for laying out the poster
+\usepackage{wrapfig}
+\usetheme{confposter} % Use the confposter theme supplied with this template
+
+\setbeamercolor{block title}{fg=black,bg=white} % Colors of the block titles
+\setbeamercolor{block body} {fg=black,bg=white} % Colors of the body of blocks
+\setbeamercolor{block alerted title}{fg=black,bg=norange} % Change the alert block title colors
+\setbeamercolor{block alerted body}{fg=black,bg=white} % Change the alert block body colors
+
+% Many more colors are available for use in beamerthemeconfposter.sty
+
+%-----------------------------------------------------------
+% Define the column widths and overall poster size
+% To set effective sepwid, onecolwid and twocolwid values, first choose how many columns you want and how much separation you want between columns
+% In this template, the separation width chosen is 0.024 of the paper width and a 4-column layout
+% onecolwid should therefore be (1-(# of columns+1)*sepwid)/# of columns e.g. (1-(4+1)*0.024)/4 = 0.22
+% Set twocolwid to be (2*onecolwid)+sepwid = 0.464
+% Set threecolwid to be (3*onecolwid)+2*sepwid = 0.708
+
+\newlength{\sepwid}
+\newlength{\onecolwid}
+\newlength{\twocolwid}
+\newlength{\threecolwid}
+\setlength{\paperwidth}{48in} % A0 width: 46.8in
+\setlength{\paperheight}{36in} % A0 height: 33.1in
+\setlength{\sepwid}{0.024\paperwidth} % Separation width (white space) between columns
+\setlength{\onecolwid}{0.22\paperwidth} % Width of one column
+\setlength{\twocolwid}{0.464\paperwidth} % Width of two columns
+\setlength{\threecolwid}{0.708\paperwidth} % Width of three columns
+\setlength{\topmargin}{-0.5in} % Reduce the top margin size
+%-----------------------------------------------------------
+
+\usepackage{graphicx}  % Required for including images
+
+\usepackage{booktabs} % Top and bottom rules for tables
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION 
+%----------------------------------------------------------------------------------------
+
+\title{\textbf{Integration of Kinect and Leap Motion for Applications in ASL Recognition}} % Poster title
+
+\author{Created by \textbf{Piter Garcia}, advised by \textbf{Reynold Bailey}} % Author(s)
+
+\institute{Rochester Institute of Technology - Computer Science MS Project Spring 2015} % Institution(s)
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\addtobeamertemplate{block end}{}{\vspace*{2ex}} % White space under blocks
+\addtobeamertemplate{block alerted end}{}{\vspace*{2ex}} % White space under highlighted (alert) blocks
+
+\setlength{\belowcaptionskip}{2ex} % White space under figures
+\setlength\belowdisplayshortskip{2ex} % White space under equations
+
+\begin{frame}[t] % The whole poster is enclosed in one beamer frame
+
+\begin{columns}[t] % The whole poster consists of three major columns, the second of which is split into two columns twice - the [t] option aligns each column's content to the top
+
+\begin{column}{\sepwid}\end{column} % Empty spacer column
+
+\begin{column}{\onecolwid} % The first column
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVES
+%----------------------------------------------------------------------------------------
+\vspace{-20mm}
+\begin{alertblock}{\textbf{GOALS}}
+The main goal was to build a translator software, which could be used in educational software, to help mute and not hearing people to improve their English literacy skills. To achieve this goal the following tasks were implemented.
+\begin{itemize}
+\item Visual Studio \textbf{(VS) 2013} and \textbf{WPF} structure were used to integrate the \textbf{Kinect and Leap Motion (LM) APIs} capabilities, and create the user interface (UI).
+\vspace{5mm}
+\item \textbf{Upper-body and hands features} were extracted and converted into matrices for comparison. The \textbf{UI} created in the VS 2013 generates \textbf{feature matrices} and \textbf{saves preliminary data} for training.
+\vspace{5mm}
+\item A \textbf{chain of matrices} and a \textbf{matrix similarity} algorithm serve as support vector machines (SVM). \textbf{Segments conditions} serve as a Hidden Markov Model (HMM) to \textbf{translate ASL to text}.
+\end{itemize}
+
+\end{alertblock}
+
+%----------------------------------------------------------------------------------------
+%	QUICK REVISION
+%----------------------------------------------------------------------------------------
+\vspace{-15mm}
+\begin{block}{\textbf{BACKGROUND}}
+
+\begin{description}
+  \item[\color{dblue}\textbf{Hands Detection Approaches}] \hfill \\
+  	\begin{itemize}
+  	\item Glove-based method \& Vision-based method
+  	\end{itemize}
+  
+  \item[\color{dblue}\textbf{Appearance Modeling}] \hfill \\
+	\begin{itemize}
+	\item Low computational complexity
+	\item Real-time processing \& Camera based device
+	\end{itemize}  
+  
+  \item[\color{dblue}\textbf{Kinect (K) Body Tracking}] \hfill \\
+  \vspace{-5mm}
+   \item{\color{black}\textbf{\scalebox{0.9}{Background} \thinspace Infrared \enspace Depth \quad Joints}}
+  \hspace{-28mm}
+  \includegraphics[width=67mm,scale=0.7]{poster0.png} \enspace
+  \includegraphics[width=59mm,scale=0.7]{poster2.png} \enspace
+  \includegraphics[width=57mm,scale=0.7]{poster3.png} \enspace
+  \includegraphics[width=68mm,scale=0.7]{poster4.png}
+ 
+  \item[\color{dblue}\textbf{Leap Motion (LM) Hands Tracking}] \hfill \\
+  \item{\textbf{\color{black} Infrared \enspace Joints}} \hfill \\
+    \includegraphics[width=43mm,scale=0.7]{poster6.png} \quad
+    \includegraphics[width=50.5mm,scale=0.7]{poster5.png}
+  \item[\color{dblue}\textbf{KLM Body and Hands Tracking}] \hfill \\
+   	\begin{itemize}
+   	\item LM Improves Kinect Tracking Accuracy
+   	\item Kinect provides Face \& Body Tracking Data
+   	\item Kinect provides a 3D Virtual Environment
+   	\end{itemize}
+  
+\end{description}
+
+\end{block}
+
+%------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+
+\end{column} % End of the first column
+
+\begin{column}{\sepwid}\end{column} % Empty spacer column
+
+\begin{column}{\twocolwid} % Begin a column which is two columns wide (column 2)
+
+\begin{columns}[t,totalwidth=\twocolwid] % Split up the two columns wide column
+
+\begin{column}{\onecolwid}\vspace{-.6in} % The first column within column 2 (column 2.1)
+
+%----------------------------------------------------------------------------------------
+%	MATERIALS
+%----------------------------------------------------------------------------------------
+\vspace{-20mm}
+\begin{block}{\textbf{KINECT (K) MODEL}}
+
+ \textbf{Kinect Features}
+ \newline
+ \includegraphics[width=260mm,scale=0.7]{KF.png}
+ \newline
+ \textbf{Kinect Translation Results}\newline
+ \includegraphics[width=250mm,scale=0.7]{KM1.png}
+ \newline
+
+\end{block}
+
+%----------------------------------------------------------------------------------------
+
+\end{column} % End of column 2.1
+
+\begin{column}{\onecolwid}\vspace{-.6in} % The second column within column 2 (column 2.2)
+
+%----------------------------------------------------------------------------------------
+%	P
+%----------------------------------------------------------------------------------------
+\vspace{-20mm}
+\begin{block}{\textbf{LEAP MOTION (LM) MODEL}}
+\textbf{Leap Motion Features} \newline
+\includegraphics[width=160mm,scale=0.7]{LMF.png}
+\newline
+\textbf{Kinect Translation Results} \newline
+\includegraphics[width=250mm,scale=0.7]{KLM0.png}
+
+
+\end{block}
+
+%----------------------------------------------------------------------------------------
+
+\end{column} % End of column 2.2
+
+\end{columns} % End of the split of column 2 - any content after this will now take up 2 columns width
+
+\setbeamercolor{block alerted title}{fg=white,bg=dblue} % Change the alert block title colors
+\setbeamercolor{block alerted body}{fg=black,bg=white} % Change the alert block body colors
+%----------------------------------------------------------------------------------------
+%	IMPORTANT To REMEMBER
+%----------------------------------------------------------------------------------------
+\vspace{-20mm}
+\begin{alertblock}{\textbf{SYSTEM METHODOLOGY}}
+
+\textbf{System Architecture  }\newline
+\newline \newline \newline \newline \newline \newline \newline
+\begin{wrapfigure}{l}{0.5\textwidth}
+  \begin{center}
+  \vspace{-138mm}
+    \includegraphics[width=350mm,scale=0.7]{SA.png}
+    \includegraphics[width=200mm,scale=0.7]{tdata.png}
+  \end{center}
+  \vspace{-5mm}
+  \hfill \\
+  
+\end{wrapfigure}
+
+\end{alertblock} 
+\vspace{-30mm}
+%----------------------------------------------------------------------------------------
+
+\begin{columns}[t,totalwidth=\twocolwid] % Split up the two columns wide column again
+
+\begin{column}{\onecolwid} % The first column within column 2 (column 2.1)
+
+%----------------------------------------------------------------------------------------
+%	EXAMPLE OF FACTORISATION
+%----------------------------------------------------------------------------------------
+
+\begin{block}{\textbf{ASL-T0-TEXT ALGORITHM}}
+\begin{enumerate}
+\vspace{-10mm}
+\item \textbf{Support Vector Machines} \newline
+%\scalebox{0.5}{\textbf{K\textit{(X,Y,Z)} Vectors \enspace	LM\textit{(X,Y,Z)} Vectors}} \newline
+\includegraphics[width=60mm,scale=0.7]{KFV.png} \enspace
+\includegraphics[width=78mm,scale=0.7]{LMM.png}\enspace
+\includegraphics[width=70mm,scale=0.7]{LFM.png}
+\item \textbf{Hidden Markov Model}
+\includegraphics[width=65mm,scale=0.7]{KM.png}\enspace
+\includegraphics[width=65mm,scale=0.7]{LMS.png}
+\end{enumerate}
+
+
+\end{block}
+
+%----------------------------------------------------------------------------------------
+
+\end{column} % End of column 2.1
+
+\begin{column}{\onecolwid} % The second column within column 2 (column 2.2)
+
+%----------------------------------------------------------------------------------------
+%	PROOF OF VIETA'S FORMULAS
+%----------------------------------------------------------------------------------------
+
+\begin{block}{\textbf{DATA TRAINING}}
+\begin{enumerate}
+\item \textbf{Loading Data}
+\item \textbf{Training Data} \newline
+
+\end{enumerate}
+\end{block}
+
+%----------------------------------------------------------------------------------------
+
+\end{column} % End of column 2.2
+
+\end{columns} % End of the split of column 2
+
+\end{column} % End of the second column
+
+\begin{column}{\sepwid}\end{column} % Empty spacer column
+
+\begin{column}{\onecolwid} % The third column
+
+%----------------------------------------------------------------------------------------
+%	CONCLUSION
+%----------------------------------------------------------------------------------------
+\vspace{-20mm}
+\begin{block}{\textbf{KLM MODEL}}
+\textbf{KLM Features Extraction} \newline
+\textbf{KLM Translation Results} \newline
+\includegraphics[width=250mm,scale=0.7]{KLM5.png}
+
+
+\end{block}
+
+
+%----------------------------------------------------------------------------------------
+%	ACKNOWLEDGEMENTS
+%----------------------------------------------------------------------------------------
+
+\setbeamercolor{block title}{fg=red,bg=white} % Change the block title color
+
+\begin{block}{\color{black}\textbf{RESULTS}}
+
+
+\includegraphics[width=120mm,scale=0.7]{tes1.png}
+\includegraphics[width=150mm,scale=0.7]{tes2.png} \newline
+\includegraphics[width=120mm,scale=0.7]{tes3.png}
+\includegraphics[width=150mm,scale=0.7]{tes4.png}
+\end{block}
+
+\setbeamercolor{block alerted title}{fg=black,bg=norange} % Change the alert block title colors
+\setbeamercolor{block alerted body}{fg=black,bg=white} % Change the alert block body colors
+
+\begin{alertblock}{\textbf{CONCLUSION}}
+The propose system could resolve the interpersonal communication problem between signers and hearing community by building up a new communication bridge with the Kinect and Leap Motion integration for applications in ASL FOR automatic translation, such as ASL to text processing.\newline  
+\textbf{FUTURE WORK:}
+\begin{itemize}
+\item Improve Accuracy
+\item Integrate Text-To-Audio Translation
+\item Integrate Text-To- 3D ASL Animation
+\end{itemize}
+
+\end{alertblock}
+
+
+%----------------------------------------------------------------------------------------
+
+\setbeamercolor{block alerted title}{fg=white,bg=dblue} % Change the alert block title colors
+\setbeamercolor{block alerted body}{fg=black,bg=white} % Change the alert block body colors
+\begin{alertblock}{\scalebox{0.95}{\textbf{REFERENCE}}}
+
+\begin{itemize}
+\item reference
+\end{itemize}
+
+\end{alertblock}
+
+\end{column} % End of the third column
+
+\end{columns} % End of all the columns in the poster
+
+\end{frame} % End of the enclosing frame
+
+\end{document}
