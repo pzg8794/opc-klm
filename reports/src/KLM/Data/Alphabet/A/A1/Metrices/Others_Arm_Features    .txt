@@ -1,0 +1,8 @@
+Others_Arm_Features    , -1.182048    ,   -0.4645202 ,  -0.8855352
+Others_Arm_Features    , -1.145218    ,   -0.4694823 ,  -0.8415898
+Others_Arm_Features    , -1.145218    ,   -0.4694823 ,  -0.8415898
+Others_Arm_Features    , -1.16399     ,   -0.4158186 ,  -0.7976931
+Others_Arm_Features    , -1.160257    ,   -0.3999719 ,   -0.770817
+Others_Arm_Features    , -1.154863    ,   -0.3572351 ,  -0.7015972
+Others_Arm_Features    , -1.162119    ,   -0.3695071 ,  -0.7296711
+

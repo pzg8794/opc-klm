@@ -1,0 +1,9 @@
+TYPE_MIDDLETipV        , 6.982502     ,     10.80234 ,    9.758656
+TYPE_MIDDLETipV        , 6.982502     ,     10.80234 ,    9.758656
+TYPE_MIDDLETipV        , -5.31883     ,     17.16661 ,    23.36335
+TYPE_MIDDLETipV        , -3.158284    ,    -1.419526 ,  -0.9307192
+TYPE_MIDDLETipV        , 1.082196     ,   0.03153737 ,  -0.1571077
+TYPE_MIDDLETipV        , 5.972666     ,    0.1308454 ,   -5.839469
+TYPE_MIDDLETipV        , 2.820795     ,     2.689956 ,   0.1576187
+TYPE_MIDDLETipV        , 9.533487     ,    -4.984486 ,    -1.00692
+

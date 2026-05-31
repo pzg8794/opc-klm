@@ -4,24 +4,10 @@ Path: `src/KLM/Data/Alphabet/A/A1`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `A0K.txt` (file)
-- `A0LM.txt` (file)
-- `A1K.txt` (file)
-- `A1LM.txt` (file)
-- `A2K.txt` (file)
-- `A2LM.txt` (file)
-- `A3K.txt` (file)
-- `A3LM.txt` (file)
-- `A4K.txt` (file)
-- `A4LM.txt` (file)
-- `A5K.txt` (file)
-- `A5LM.txt` (file)
-- `A6K.txt` (file)
-- `A6LM.txt` (file)
 - `image0.png` (file)
 - `image1.png` (file)
 - `image2.png` (file)
@@ -39,4 +25,4 @@ Indexed project directory from the old Portafolio cleanup.
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

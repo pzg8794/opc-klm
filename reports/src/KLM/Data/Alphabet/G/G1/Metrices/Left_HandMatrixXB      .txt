@@ -1,0 +1,11 @@
+Left_HandMatrixXB      , -0.5968239   ,    0.3747044 ,   0.3747044
+Left_HandMatrixXB      , -0.5588801   ,    0.4577085 ,   0.4577085
+Left_HandMatrixXB      , -0.5588801   ,    0.4577085 ,   0.4577085
+Left_HandMatrixXB      , -0.5709137   ,    0.4656587 ,   0.4656587
+Left_HandMatrixXB      , -0.6026378   ,    0.4207977 ,   0.4207977
+Left_HandMatrixXB      , -0.6026378   ,    0.4207977 ,   0.4207977
+Left_HandMatrixXB      , -0.6089087   ,    0.4284522 ,   0.4284522
+Left_HandMatrixXB      , -0.596727    ,     0.417959 ,    0.417959
+Left_HandMatrixXB      , -0.6116107   ,    0.3980028 ,   0.3980028
+Left_HandMatrixXB      , -0.6116107   ,    0.3980028 ,   0.3980028
+

@@ -4,24 +4,10 @@ Path: `src/KLM/Data/Alphabet/D/D1`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `D0K.txt` (file)
-- `D0LM.txt` (file)
-- `D1K.txt` (file)
-- `D1LM.txt` (file)
-- `D2K.txt` (file)
-- `D2LM.txt` (file)
-- `D3K.txt` (file)
-- `D3LM.txt` (file)
-- `D4K.txt` (file)
-- `D4LM.txt` (file)
-- `D5K.txt` (file)
-- `D5LM.txt` (file)
-- `D6K.txt` (file)
-- `D6LM.txt` (file)
 - `image0.png` (file)
 - `image1.png` (file)
 - `image2.png` (file)
@@ -39,4 +25,4 @@ Indexed project directory from the old Portafolio cleanup.
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

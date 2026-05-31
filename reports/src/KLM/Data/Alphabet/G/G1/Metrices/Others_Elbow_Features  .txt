@@ -1,0 +1,9 @@
+Others_Elbow_Features  , 1.706998     ,     2.789418 ,    1.927751
+Others_Elbow_Features  , 1.707872     ,     2.789197 ,    1.929654
+Others_Elbow_Features  , 1.707872     ,     2.789197 ,    1.929654
+Others_Elbow_Features  , 1.70809      ,     2.789356 ,    1.930343
+Others_Elbow_Features  , 1.709999     ,     2.791536 ,    1.937227
+Others_Elbow_Features  , 1.712901     ,     2.793381 ,     1.94623
+Others_Elbow_Features  , 1.712227     ,     2.794243 ,    1.945503
+Others_Elbow_Features  , 1.711109     ,     2.793928 ,    1.942439
+

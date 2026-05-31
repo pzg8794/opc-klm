@@ -1,0 +1,27 @@
+Others_Finger_Featuers , -0.1102      ,    -1.487057 ,  -0.9218241
+Others_Finger_Featuers , 1.110929     ,     2.659398 ,   0.8129956
+Others_Finger_Featuers , 1.295172     ,     2.519186 ,    1.195342
+Others_Finger_Featuers , 1.614257     ,     3.124452 ,    2.766116
+Others_Finger_Featuers , 1.725352     ,    -3.060271 ,   -2.659618
+Others_Finger_Featuers , -0.200475    ,    -1.389645 ,  -0.8372337
+Others_Finger_Featuers , 0.9396824    ,     2.492872 ,   0.8037747
+Others_Finger_Featuers , 1.157036     ,     2.423826 ,    1.104817
+Others_Finger_Featuers , 1.420553     ,     3.062547 ,   0.4820663
+Others_Finger_Featuers , 1.53916      ,    -3.113598 ,  -0.7243611
+Others_Finger_Featuers , 1.381794     ,     3.045006 ,   0.4688423
+Others_Finger_Featuers , 0.9034296    ,     2.484787 ,   0.7745083
+Others_Finger_Featuers , 1.121956     ,     2.427249 ,    1.063787
+Others_Finger_Featuers , 1.381794     ,     3.045006 ,   0.4688423
+Others_Finger_Featuers , 1.517152     ,     -3.13152 ,  -0.1854367
+Others_Finger_Featuers , 1.464459     ,    -3.136441 , -0.04822529
+Others_Finger_Featuers , -0.4334225   ,     -1.16571 ,  -0.8234795
+Others_Finger_Featuers , 0.9469219    ,      2.66723 ,   0.6196439
+Others_Finger_Featuers , 1.158493     ,       2.6086 ,   0.9328355
+Others_Finger_Featuers , 1.350921     ,    -3.104964 ,  -0.1625227
+Others_Finger_Featuers , 1.46425      ,    -2.994369 ,  -0.9459832
+Others_Finger_Featuers , 1.364618     ,    -3.133627 , -0.03806884
+Others_Finger_Featuers , 1.025048     ,     2.569399 ,   0.8147961
+Others_Finger_Featuers , 1.21122      ,     2.448396 ,    1.145849
+Others_Finger_Featuers , 1.550916     ,     3.095371 ,    1.164814
+Others_Finger_Featuers , 1.69356      ,    -3.132759 ,   -3.070116
+

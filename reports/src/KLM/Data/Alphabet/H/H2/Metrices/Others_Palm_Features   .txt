@@ -1,0 +1,10 @@
+Others_Palm_Features   , 1.294067     ,      2.89409 ,   0.7270826
+Others_Palm_Features   , 1.331079     ,     2.929089 ,   0.7232074
+Others_Palm_Features   , 1.332166     ,     2.930876 ,   0.7212335
+Others_Palm_Features   , 1.332166     ,     2.930876 ,   0.7212335
+Others_Palm_Features   , 1.332242     ,     2.945592 ,   0.6846949
+Others_Palm_Features   , 1.332242     ,     2.945592 ,   0.6846949
+Others_Palm_Features   , 1.343059     ,     2.908194 ,     0.79812
+Others_Palm_Features   , 1.329521     ,     2.939096 ,   0.6953447
+Others_Palm_Features   , 1.296942     ,       2.9049 ,   0.7095113
+

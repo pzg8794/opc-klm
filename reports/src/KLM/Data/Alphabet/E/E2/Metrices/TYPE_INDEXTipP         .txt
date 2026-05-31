@@ -1,0 +1,9 @@
+TYPE_INDEXTipP         , 52.24785     ,     102.6948 ,    102.6948
+TYPE_INDEXTipP         , 56.23164     ,     103.3188 ,    103.3188
+TYPE_INDEXTipP         , 54.63189     ,     101.5503 ,    101.5503
+TYPE_INDEXTipP         , 54.4861      ,      101.161 ,     101.161
+TYPE_INDEXTipP         , 53.52729     ,     103.0647 ,    103.0647
+TYPE_INDEXTipP         , 53.93058     ,      101.676 ,     101.676
+TYPE_INDEXTipP         , 53.38172     ,      100.165 ,     100.165
+TYPE_INDEXTipP         , 52.96615     ,     102.6326 ,    102.6326
+

@@ -1,0 +1,10 @@
+Others_Arm_Features    , -0.9737335   ,   -0.5753388 ,  -0.7618345
+Others_Arm_Features    , -0.9737335   ,   -0.5753388 ,  -0.7618345
+Others_Arm_Features    , -0.9982288   ,   -0.6047625 ,  -0.8202367
+Others_Arm_Features    , -1.041744    ,   -0.6321476 ,  -0.8971246
+Others_Arm_Features    , -0.9563931   ,   -0.7457263 ,  -0.9185127
+Others_Arm_Features    , -0.8279331   ,   -0.8166429 ,  -0.8589824
+Others_Arm_Features    , -0.7951322   ,   -0.8163202 ,  -0.8260298
+Others_Arm_Features    , -0.7936652   ,   -0.8168582 ,  -0.8251046
+Others_Arm_Features    , -0.7829867   ,   -0.8395043 ,  -0.8371063
+

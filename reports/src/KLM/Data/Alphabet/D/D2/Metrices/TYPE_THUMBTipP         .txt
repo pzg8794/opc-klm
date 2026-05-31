@@ -1,0 +1,9 @@
+TYPE_THUMBTipP         , 43.83638     ,     87.75881 ,    87.75881
+TYPE_THUMBTipP         , 47.16484     ,     92.23764 ,    92.23764
+TYPE_THUMBTipP         , 48.30496     ,     92.23914 ,    92.23914
+TYPE_THUMBTipP         , 48.86843     ,     92.16997 ,    92.16997
+TYPE_THUMBTipP         , 48.86843     ,     92.16997 ,    92.16997
+TYPE_THUMBTipP         , 47.99895     ,     88.23063 ,    88.23063
+TYPE_THUMBTipP         , 47.57655     ,      87.7141 ,     87.7141
+TYPE_THUMBTipP         , 48.51746     ,      89.9085 ,     89.9085
+

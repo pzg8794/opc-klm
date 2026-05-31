@@ -1,0 +1,10 @@
+Left_HandPalm_M        , 0            ,            0 ,    135.5444
+Left_HandPalm_M        , 0            ,            0 ,    136.3114
+Left_HandPalm_M        , 0            ,            0 ,    136.4208
+Left_HandPalm_M        , 0            ,            0 ,    139.9169
+Left_HandPalm_M        , 0            ,            0 ,    138.8878
+Left_HandPalm_M        , 0            ,            0 ,    139.0682
+Left_HandPalm_M        , 0            ,            0 ,    139.1634
+Left_HandPalm_M        , 0            ,            0 ,    139.3221
+Left_HandPalm_M        , 0            ,            0 ,    139.3221
+

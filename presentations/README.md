@@ -4,7 +4,7 @@ Path: `presentations`
 
 ## Purpose
 
-Presentation, slide, and poster materials separated for later deck/Overleaf-related reuse.
+Presentation, slide, and poster material separated for future deck or Beamer work.
 
 ## Items
 
@@ -17,4 +17,4 @@ Presentation, slide, and poster materials separated for later deck/Overleaf-rela
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

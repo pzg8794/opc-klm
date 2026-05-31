@@ -1,0 +1,10 @@
+Left_HandWrist_M       , 0            ,            0 ,    176.4504
+Left_HandWrist_M       , 0            ,            0 ,    175.9485
+Left_HandWrist_M       , 0            ,            0 ,    175.9699
+Left_HandWrist_M       , 0            ,            0 ,    180.5356
+Left_HandWrist_M       , 0            ,            0 ,    181.0972
+Left_HandWrist_M       , 0            ,            0 ,    178.6703
+Left_HandWrist_M       , 0            ,            0 ,    178.7593
+Left_HandWrist_M       , 0            ,            0 ,    176.8068
+Left_HandWrist_M       , 0            ,            0 ,    176.8068
+

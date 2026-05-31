@@ -2,12 +2,12 @@
 
 Drive source: https://drive.google.com/drive/folders/1sMjN2lg17ecMohW-YlVw2ejnC61mWpdo
 
-Purpose: cleaned old Portafolio repository with documents separated for future reuse and Overleaf conversion.
+Purpose: cleaned old Portafolio repository. Simple source, paper, report, presentation, and documentation files are stored in GitHub; heavy videos, installers, archives, and raw data stay in Drive.
 
-## Main Directories
+## Document Areas
 
-- [`papers/`](./papers/README.md) - Research papers, papers, proposals, theses, and publication-like materials.
-- [`reports/`](./reports/README.md) - Reports, lab reports, assignments, final-project writeups, and documentation.
+- [`papers/`](./papers/README.md) - Paper/research/proposal materials.
+- [`reports/`](./reports/README.md) - Reports, labs, assignments, notes, manuals, and documentation.
 - [`presentations/`](./presentations/README.md) - Presentations, slides, and posters.
 
 ## Top-Level Items
@@ -21,19 +21,14 @@ Purpose: cleaned old Portafolio repository with documents separated for future r
 - `001284.jpg` (file)
 - `001494.jpg` (file)
 - `001820.jpg` (file)
-- `29 Viola et al SP3.pdf` (file)
 - `DRIVE_OVERVIEW.md` (file)
-- `GARCIA BAUTISTA-STUDY PLA1.pdf` (file)
 - `IMPORT_NOTES.md` (file)
+- `leapmotion.PNG` (file)
 - `LICENSE` (file)
-- `main.pdf` (file)
 - `ORIGINAL_README.md` (file)
-- `Project System Architecture.png` (file)
-- `Project System Architecture.vsdx` (file)
-- `Workbook1.csv` (file)
+- `OVERLEAF_PREP.md` (file)
+- `SA1.PNG` (file)
 
-## Organization Notes
+## Drive-Only Policy
 
-- Large binaries, installers, media, and archives may remain in Google Drive and be referenced from `IMPORT_NOTES.md` or `DRIVE_OVERVIEW.md`.
-- Each included directory has a `README.md` index.
-- `papers/`, `reports/`, and `presentations/` are intentionally separated so later Overleaf work can start from a clean source bucket.
+Videos, installers, compressed archives, raw data/binaries, and files too large for GitHub are referenced in `DRIVE_ONLY.md` or `IMPORT_NOTES.md` instead of being committed.

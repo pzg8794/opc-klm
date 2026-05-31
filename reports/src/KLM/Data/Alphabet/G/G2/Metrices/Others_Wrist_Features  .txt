@@ -1,0 +1,13 @@
+Others_Wrist_Features  , 1.272941     ,     2.633734 ,    1.066732
+Others_Wrist_Features  , 1.279378     ,     2.635657 ,    1.074575
+Others_Wrist_Features  , 1.279378     ,     2.635657 ,    1.074575
+Others_Wrist_Features  , 1.275875     ,     2.642812 ,    1.062076
+Others_Wrist_Features  , 1.275875     ,     2.642812 ,    1.062076
+Others_Wrist_Features  , 1.272802     ,       2.6496 ,     1.05041
+Others_Wrist_Features  , 1.272802     ,       2.6496 ,     1.05041
+Others_Wrist_Features  , 1.226494     ,     2.652602 ,   0.9777924
+Others_Wrist_Features  , 1.202615     ,     2.654079 ,   0.9417858
+Others_Wrist_Features  , 1.202615     ,     2.654079 ,   0.9417858
+Others_Wrist_Features  , 1.209201     ,     2.655983 ,   0.9489768
+Others_Wrist_Features  , 1.209201     ,     2.655983 ,   0.9489768
+

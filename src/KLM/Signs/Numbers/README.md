@@ -4,12 +4,14 @@ Path: `src/KLM/Signs/Numbers`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
+- `0.PNG` (file)
 - `1.png` (file)
 - `10.png` (file)
+- `100.PNG` (file)
 - `11.png` (file)
 - `12.png` (file)
 - `13.png` (file)
@@ -31,4 +33,4 @@ Indexed project directory from the old Portafolio cleanup.
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

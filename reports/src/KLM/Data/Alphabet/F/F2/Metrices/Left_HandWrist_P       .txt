@@ -1,0 +1,11 @@
+Left_HandWrist_P       , 50.69197     ,     185.0774 ,    7.217553
+Left_HandWrist_P       , 50.69197     ,     185.0774 ,    7.217553
+Left_HandWrist_P       , 50.48131     ,     185.6502 ,    9.319529
+Left_HandWrist_P       , 48.68621     ,     183.8682 ,    10.76734
+Left_HandWrist_P       , 47.46757     ,     194.3973 ,    2.733122
+Left_HandWrist_P       , 47.46757     ,     194.3973 ,    2.733122
+Left_HandWrist_P       , 48.53425     ,     197.2641 ,   -3.157176
+Left_HandWrist_P       , 49.23589     ,     196.4708 ,   -6.633715
+Left_HandWrist_P       , 49.20313     ,     196.5723 ,   -6.687273
+Left_HandWrist_P       , 47.79313     ,     197.6338 ,   -5.540595
+

@@ -1,0 +1,9 @@
+TYPE_THUMBTipP         , 11.9682      ,     139.5664 ,    139.5664
+TYPE_THUMBTipP         , 13.1164      ,     134.3437 ,    134.3437
+TYPE_THUMBTipP         , 14.86952     ,     133.1363 ,    133.1363
+TYPE_THUMBTipP         , 14.66978     ,     132.7561 ,    132.7561
+TYPE_THUMBTipP         , 15.06556     ,     132.8062 ,    132.8062
+TYPE_THUMBTipP         , 16.15441     ,      134.685 ,     134.685
+TYPE_THUMBTipP         , 16.13238     ,     134.6752 ,    134.6752
+TYPE_THUMBTipP         , 16.49351     ,     135.3933 ,    135.3933
+

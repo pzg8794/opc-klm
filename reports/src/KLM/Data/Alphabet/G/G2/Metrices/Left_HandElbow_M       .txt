@@ -1,0 +1,6 @@
+Left_HandElbow_M       , 0            ,            0 ,    385.1774
+Left_HandElbow_M       , 0            ,            0 ,     382.133
+Left_HandElbow_M       , 0            ,            0 ,    381.6631
+Left_HandElbow_M       , 0            ,            0 ,    379.3432
+Left_HandElbow_M       , 0            ,            0 ,    380.1146
+

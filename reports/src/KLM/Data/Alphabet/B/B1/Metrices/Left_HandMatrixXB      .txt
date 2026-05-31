@@ -1,0 +1,9 @@
+Left_HandMatrixXB      , -0.9546486   ,   0.08754811 ,  0.08754811
+Left_HandMatrixXB      , -0.9533096   ,   0.09798805 ,  0.09798805
+Left_HandMatrixXB      , -0.9471824   ,    0.0682132 ,   0.0682132
+Left_HandMatrixXB      , -0.9471824   ,    0.0682132 ,   0.0682132
+Left_HandMatrixXB      , -0.9360515   ,    0.1208844 ,   0.1208844
+Left_HandMatrixXB      , -0.9221075   ,     0.157659 ,    0.157659
+Left_HandMatrixXB      , -0.9162421   ,    0.1793408 ,   0.1793408
+Left_HandMatrixXB      , -0.9243682   ,    0.1491144 ,   0.1491144
+
