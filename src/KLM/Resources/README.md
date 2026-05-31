@@ -2,10 +2,12 @@
 
 Path: `src/KLM/Resources`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `icon.jpg` (file)
-- `icon.png` (file)
 - `k4w.png` (file)
 - `Kinect.jpg` (file)
 - `KLM.jpg` (file)
@@ -15,4 +17,4 @@ Path: `src/KLM/Resources`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

@@ -1,14 +1,14 @@
-# x86
+# papers
 
-Path: `src/LightBuzz.Vitruvius/obj/x86`
+Path: `papers`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Paper/research/proposal materials staged for future Overleaf conversion.
 
 ## Items
 
-- No items currently classified here.
+- `LeapGesture_BScThesis.pdf` (file)
 
 ## Notes
 

@@ -1,10 +1,10 @@
-# x86
+# reports
 
-Path: `src/LightBuzz.Vitruvius/obj/x86`
+Path: `reports`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
 
 ## Items
 
